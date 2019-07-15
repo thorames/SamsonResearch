@@ -39,11 +39,16 @@ def read_transcripts(inputDirectory):
         text = document.read()
         if (re.search("{\"jobName", text)):
             text = json_to_plain_txt(text)
-        transcripts[file] = text
+        numbers = re.sub(r'[^\d]', ' ', file)
+        numbers = numbers.split()
+        for number in numbers:
+            if len(number) == 6:
+                transcripts[number] = text
+                break
     return transcripts
 
-def score_gold_standard(transcripts, word_ranks):
-    gold_standard_scores = {}
+def score_transcripts(transcripts, word_ranks):
+    transcript_scores = {}
 
     for key, value in transcripts.iteritems():
         value = re.sub('\r', ' ', value)
@@ -57,17 +62,34 @@ def score_gold_standard(transcripts, word_ranks):
             if token in word_ranks:
                 transcript_score += word_ranks[token]
 
-        gold_standard_scores[key] = transcript_score
+        transcript_scores[key] = transcript_score
 
-    return gold_standard_scores
+    return transcript_scores
+
+def accuracy(gold_standard_scores, silver_standard_scores):
+    count = 0
+    average_accuracy = 0
+
+    for key, value in silver_standard_scores.iteritems():
+        if key in gold_standard_scores:
+            difference = abs(gold_standard_scores[key] - silver_standard_scores[key])
+            average_accuracy += float(float(gold_standard_scores[key] - difference) / float(gold_standard_scores[key]))
+            count += 1
+
+    average_accuracy = float(float(average_accuracy) / float(count))
+    print("Average Transcription Accuracy : " + str(average_accuracy))
 
 def main():
-    inputDirectory = sys.argv[1]
+    goldDirectory = sys.argv[1]
+    silverDirectory = sys.argv[2]
 
     word_ranks = load_word_ranks()
-    transcripts = read_transcripts(inputDirectory)
-    gold_standard_scores = score_gold_standard(transcripts, word_ranks)
+    goldTranscripts = read_transcripts(goldDirectory)
+    gold_standard_scores = score_transcripts(goldTranscripts, word_ranks)
 
-    print(gold_standard_scores)
+    silverTranscripts = read_transcripts(silverDirectory)
+    silver_standard_scores = score_transcripts(silverTranscripts, word_ranks)
+
+    accuracy(gold_standard_scores, silver_standard_scores)
 
 main()
