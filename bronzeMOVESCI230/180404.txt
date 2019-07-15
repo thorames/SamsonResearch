@@ -1,0 +1,1403 @@
+All right, everybody, let's get started.
+
+Looks like i could have booked a table at starbucks for our class this morning since we're a teeny tiny group.
+
+But let me say to you, this is the fruit of your labors day, because this is when we're going to apply all of the knowledge that you have gained about muscles to understanding human movement, which is basically what this whole thing is about.
+
+So let's talk about that.
+
+You will be able to describe the steps that you need to determine muscle action.
+
+So what is muscle action that is ?
+
+Is a muscle acting concept trick clea eccentrically or isometric lee to control the movement that we're interested in.
+
+So we've talked about what eccentric and concentrate means earlier.
+
+But today we're gonna work with that.
+
+Totally.
+
+And so the first step we need to do is to figure out how do we know if a muscle is active in the real world ?
+
+You would slap on some mg electro biography electrodes to detect that electrical activity at the mill evil level.
+
+That muscle's when they're active, emanate.
+
+But we don't have access to amg data, so we're going to have tio using informed guess to determine what muscles are active.
+
+Once we know that we can tell that muscle would be lengthening or shortening while active, because the joint movements and then we can answer the question.
+
+So that's the job of the day.
+
+So let's zoom out and think about body movement and what controls it.
+
+We have been living in this fictitious world in movement, science to thirty.
+
+That muscle are the only things that generate force and torque that act on the body.
+
+But of course, in the real world, there are other forces like the force of the ground under my pressing up against my feet, we call those contact forces.
+
+Fluid forces.
+
+I'm moving through an atmosphere, irving.
+
+Through water.
+
+The water would exert a force on my body.
+
+Gravity, of course, is important for us in the international space station.
+
+Not so much and inertial forces air forces that are generated because the body is in motion.
+
+So all those forces act on the joints of the body caused torques.
+
+And what is the result is ethical or angular acceleration as a result of those torques in the rotational movement world.
+
+So actually, what muscles do is not cause movement but rat rather cause acceleration.
+
+So you're going to hear me use the term tendency to cause a movement because muscles are generating torque, which you're creating angular acceleration, which may or may not.
+
+What we observe his movement.
+
+Now here's my some of the torque sequels i alfa mom of inertia times angular acceleration.
+
+But notice this.
+
+Some term muscles are just one of the torques actually acting on the body.
+
+So if the muscle torque bigger and dominates this some term, then muscle torque will cause the angular acceleration in the direction we would expect that is, an elbow flexes muscle.
+
+Creating elbow flexor torque would accelerate the elbow in deflection direct.
+
+What if some of those other torques that air acting are greater than the muscle tour ?
+
+The movement's actually going to be in the other direction.
+
+The acceleration is going to be in the other direction.
+
+Muscle torque is less than gravity, then acceleration will be in the direction of gravity torque, and the joint will actually move in the opposite direction that we might expect from muscle acting.
+
+So that's the physics that we're dealing with, and let's see how it plays out in terms of muscle action.
+
+So here we go.
+
+Here are a whole bunch of words, and we're going to be using these words all day long.
+
+Oh, our long khan centric action.
+
+Okay, muscle.
+
+A muscle will behave.
+
+Will control movement concentra clea.
+
+That means it will shorten while it's active, if the muscle torque is greater than all the other torques, so the net joined angular acceleration is in the same direction of muscle tore.
+
+When i pick up this pencil case my help.
+
+Gravity wants to gravity's pulling downward, trying to extend my elbow.
+
+But my biceps torque is big, bigger than gravity torque.
+
+So i succeed in generating angular acceleration in the flexion direction and i win.
+
+Okay, what about eccentric action ?
+
+Why would muscles ever be turned on ?
+
+They're lengthening well, because i want to set this pencil case down gently.
+
+I don't want to slop it on to the table.
+
+I want to control smith onto the tabletop.
+
+So i turn on my biceps to counter act gravitational torque so i can control the lowering this object on to the table.
+
+Now.
+
+Are there any times when i would ?
+
+Uh, want to have my muscles work in the same direction of gravity ?
+
+Yes.
+
+When i want teo, move my elbow faster than gravity would move it and make up big point and slapped this table.
+
+I want to add in my triceps extensive torque to gravity's acceleration to actually move faster even than gravity would have me.
+
+Oh, and of course, i am now using biceps flexor torque in an isometric way.
+
+Biceps is acting i so metric lee because i'm holding my elbow in this flexed position.
+
+So i'm exactly counter act acting the gravitational torch that wants to extend my gravity.
+
+Extend my forearm.
+
+It's in my elbow.
+
+To hold my joint in this one position.
+
+Uh, so many words.
+
+So here's what we're gonna do today.
+
+Identify the joint movement elbow flexion.
+
+Identify the direction of the external joint load.
+
+What would gravity want to do to my elbow when i'm doing this movement of elbow flexion gravity's gonna want extend it.
+
+So then my two thirty rule will be that muscles turn on to counter act gravity.
+
+I don't have my amg electrodes to tell me which muscle turns on in this movement.
+
+I'm going to use my understanding and applications this rule to say, well, gravity wants to extend my elbow so if i want a flex it, i better turn on us flex er i must make flex her tork then i think about what makes flexor torque easy.
+
+Al bowflex ear's on lee make flexor torque and that i can compare.
+
+Muscle elbow flexes are active because the elbow is flexing.
+
+The elbow flexes are shortening.
+
+Therefore, the elbow flexes are shortening and active.
+
+Khan centric action.
+
+Any of the elbow flexes are r.
+
+What's controlling now ?
+
+If the movement is slowly low, wearing the pencil case to the table and i'm moving slower than gravity.
+
+Gravity wants to quickly extend my elbow.
+
+I want to move slower than gravity, so i turn on the opposite muscle.
+
+And in this case, t ell bowflex er's are lengthening during l they're active and they're lengthening.
+
+So when i slowly lower this pencil case east centric action of the elbow flex er's that are controlling their movement and they're acting eccentrically.
+
+So here we go, what the muscle action is needed to stand up and we'll watch this former movement science student turned physical therapist in her grownup life.
+
+Get up out of the chair.
+
+And so our question is, what is the name of the movement at the knee ?
+
+That's our first step, and the movement at the knee is looks like extension to make to get out of the chair.
+
+And so, during the extension, we know that the knee extensive muscles are shortening by definition during extension.
+
+The flexors are the extensive zehr shortening, and the knee flexors are lengthening because the joint is moving an extension.
+
+We know that well, we don't know yet is which muscle group is turned on during this task.
+
+And so we will consider what the external torque load, which is gravity, wants to keep her in the chair.
+
+Gravity wants to flex her knees, so we're just into eating our way to understand what gravity would do in the task.
+
+And so, when standing up out of the chair, gravity is exerting a torque that tends to flex the name flexor torque, gravity extending flexor tour.
+
+And we're only going to be considering gravity right right now in our exercise and two thirty.
+
+So the next step is to determine what muscle torque might be acting during this task.
+
+And we apply the two thirty rule, which is muscles counteract gravity.
+
+So if gravity is tending to flex her knees, that means that we need a muscle torque to extend her knees opposite, acting opposite to gravity.
+
+And so that shown here i have muscles are making an extensive torque around the need to counter act gravity acting in the opposite direction to gravity.
+
+Okay, so muscles control movement by counter acting external torques in this case, gravity.
+
+And so for our simplistic view right now, we're going to say that muscle, we're going to sign muscle.
+
+We're going to activate muscles that are opposite in direction to the gravity tor.
+
+And then we're going to consider well, what makes extensive torque it the need.
+
+And, of course, that's the knee extensive sirs, and there tending to accelerate this knee into extension.
+
+That's the direction of right.
+
+And so we know that the knee extends her muscles, make neeiix tensor tour.
+
+We know that the knee extensive sirs, our acting during the extension so we can say the knee extensive er's our acting con centric lee shortening active and shortening.
+
+And that's how this is how we determine that we remember that the movement direction, the green arrow is extension.
+
+We see that the muscle tor is extensive muscle torque.
+
+It's in the same direction, so we know that these next answers are shortening.
+
+Which is his words.
+
+And these colors are saying so to sum up, when muscle torque is greater than gravitational tor, then the movement is going to be in the direction of muscle tore.
+
+We're going to be acting against gravity, and that's concentrate action the muscle torque, mint torque or in the same direction muscle is always going to be opposite to gravity in our in our rule here, but in the other, when the joint is moving the opposite direction.
+
+Elbow attention.
+
+In this case, the muscle torque and the movement direction are opposite, which means if that muscle will be getting longer while it is active and generating torque.
+
+And that's e centric action.
+
+So the movement is in the direction of gravity with gravity.
+
+But it's slower than grabbing this case.
+
+Muscles are acting to control by slowing down what the movement would be if just gravity acted and what happens when muscle torque is exactly equal to gravitational torque.
+
+Isometric action joint.
+
+Is it moving ?
+
+No muscles or changing length, so we have isometric act, all right ?
+
+E centric muscle action.
+
+Gravity is causing the movement.
+
+So why does the brain activate movement at all ?
+
+Well, in this case, the muscles are yeah, not leaving control of movement.
+
+Here.
+
+I hope this doesn't hurt.
+
+When gravity gravity put me sat me down, i'd fall into a chair.
+
+That's not how we stuff, right ?
+
+We want to control movement, so actually muscles act eccentrically very often.
+
+Confusing.
+
+Weird.
+
+Strange.
+
+But this is the complexity of human movement.
+
+Okay.
+
+Do muscles of gravity ever act in the same direction ?
+
+Yes, that was my demonstration of if you are playing drums, for example, you're gonna want to accelerate faster than what gravity would have you do.
+
+So in that case, gravity and muscles would act together.
+
+We're going to set that notion aside and be considering slower than gravity for the rest of the day, okay ?
+
+And i said all of this.
+
+All right, so here we go.
+
+Now we got her out of the chair.
+
+How do we sit her back down into the chair ?
+
+And here we go.
+
+We look at it, jody sitting down.
+
+Look at that biceps memories tendon right there.
+
+Beautiful head of the fibula.
+
+Gorgeous.
+
+Always got surface.
+
+And adam eat on my mind.
+
+What is the direction of movement at the nih ?
+
+What's that ?
+
+What is that movement ?
+
+When you sit down into a chair, we would call that deflection.
+
+And what is gravity trying to do as she sits down into the chair ?
+
+Gravity is trying to flex her name and oh, direction of me.
+
+Muscle torque by our rules into thirty must be opposite.
+
+So we determine that me, sir muscle torque gives necessary to control that movement.
+
+So what is the knee muscle action during sitting ?
+
+Her knee will be flexing while need extensive.
+
+Sirs are we see that the muscles are acting in the direction opposite to gravity and ups.
+
+And so what is our conclusion ?
+
+We conclude that the expenses are active.
+
+Well, the nia's flex sings the next answers must be acting e centric lee there lengthening while active.
+
+So if you have exercised really hard and you have sore quad, it hurts when you sit down and when you stand up, you're using a muscle group.
+
+Both directors.
+
+Okay, so now it's time to go to work.
+
+Here's our first activity.
+
+What is the elbow muscle action when moving from position one to position two ?
+
+So think through those rules.
+
+If you follow the four steps, you never go wrong.
+
+What is the movement ?
+
+What would gravity do ?
+
+Muscles act.
+
+Which muscles are active, the ones opposite to gravity compare movement, direction and, uh muscle torque direction.
+
+Answer the question.
+
+And you have decided said that this is flexes acting concept trick lee.
+
+Very good flexion grabbed a month stand.
+
+Therefore the flexors are on.
+
+Flexors are on during flexion, so the flex sirs are shortening while active.
+
+That's concentric.
+
+Now we're going to go from position three, two, four.
+
+What's the movement ?
+
+What would gravity d'oh, what muscle torque is needed to control the movement and are the mussels in the direction of that muscle torque lengthening or short during that ?
+
+Al demo in this direction so you guys can see, right ?
+
+Man you have.
+
+Flexes, act centric lee or extensive er's acting eccentrically.
+
+That's interesting, so the joint is still flexing.
+
+But gravity wants to flex the elbow even more so i have to turn on the extensive.
+
+The extensive is length enduring flexion.
+
+So the extensive czar active and they are lengthening to control this movement.
+
+So the answer is.
+
+Yeah, here he is.
+
+And he is doing something at his shoulder during this task.
+
+Um, and what would that be ?
+
+What's the movement ?
+
+What's the gravity direction ?
+
+What's the muscle ?
+
+Torque direction is muscle torque in the same direction or in opposite direction ?
+
+Those four questions ask him every time you will never get the wrong answer.
+
+If you answer each of the four parts correctly.
+
+When you've done all of that, consider what it would feel like to do this movement.
+
+And if you would feel it in the same place as the muscle you choose, piak.
+
+Look at this medial gas drop right here.
+
+And you have decided good.
+
+Extensive is acting concentra clea.
+
+He is extending his glenn oh, hugh meral joint grab.
+
+He sure wants to flex it.
+
+So the extensive is must be active opposite to gravity and extensive zehr acting while the joint is extending their shortening.
+
+So we got on centric.
+
+Which of the following muscles does not act concentra clea to control the shoulder movement movement.
+
+What ?
+
+Oh, okay, i get it.
+
+I get it.
+
+So in the movement that we just saw and we said it was extensive er's acting concentra.
+
+Clea, i guess what i'm asking here, in a convoluted, convoluted way is which of the following muscles is not the shoulder extensive ?
+
+That's what i'm asking here.
+
+We remember anything about the shoulder muscles ?
+
+There's our flex er right, so this muscle is not an extensive please.
+
+No.
+
+You might get a question like this on the last exam.
+
+So the last exam will cover the details, the muscles that control the knee and the ankle in the total.
+
+But i it also is going to cover the function of any muscle.
+
+So it would be fair for me to ask a question like this on the last exam, even though these shoulder muscles were not included specifically in in the list, that modules for the last one.
+
+That's what i mean by all muscle function is that you might have to answer a question like this on the last exam.
+
+What is the number of the day ?
+
+Sadly, number two, number one at number two.
+
+Fabulous anyway.
+
+Okay, tim.
+
+For double too.
+
+All right.
+
+Um, so let's consider now action of of muscles that control the scapula, and you might guess what muscle we're going to be looking at here.
+
+So let's sitter muscle during a push up.
+
+So we're seeing that muscle, which hopefully you are thought bubble saying the name of that muscle and you're seeing what it's doing.
+
+Is it lengthened or shortening during this task ?
+
+And so what ?
+
+Muscle action is needed to control this movement of the scapula.
+
+So i'm just going to keep showing this video because you have to figure out what this motion of the scapula is.
+
+Then you have to figure out what you think gravity would be trying to do to the scapula during this half.
+
+And i'm just gonna keep playing at while you're please.
+
+Get your choices in.
+
+And let's talk about this one.
+
+This one's gonna need some discussion.
+
+So we think it's pro tractors acting concentra.
+
+Clea, you're right.
+
+So what we see, of course, is serrated anterior shortening.
+
+We know that the function of serena's anterior is to protract that the scapula.
+
+It's pulling the scapula away from the spine from the midline, right ?
+
+So if you were at the top of this push up and you just relax your scapula retract.
+
+Going to pour two pro tracks of gravity wants two every track.
+
+Your scamp.
+
+That's the part that's a little bit hard to imagine here and so gravelly wants to retract.
+
+That means we need to turn on pro tractors.
+
+The movement is pro traction of those scapula, so it's a concept trick action, good work.
+
+Here's a guy we call this a mid century guy.
+
+Meaning mid twentieth century.
+
+Doesn't he look mid century and he's doing this movement.
+
+And the question is about the upper left, not the return movement down here in the bottom.
+
+Right.
+
+So what is the muscle action needed to control this movement going from this position to this disease ?
+
+All right.
+
+And you have decided that it is super spin a tous acting khan centric lee, you are so right.
+
+So the movement is abduction of the clinton hugh meral joint.
+
+For sure, we know gravity wants to add duck, so we need to turn on muscles opposite to gravity.
+
+We need to turn on the abductors.
+
+The abductors shorten during the movement abduction.
+
+So we know its khan centric.
+
+But concentric action of what ?
+
+And we have two choices, basically one of which is super spin aid us.
+
+And what's the other choice was the other abduct here ?
+
+We've only got two on our life.
+
+Middle deltoid.
+
+I'll help you.
+
+What is true regarding abductor muscles ?
+
+This is one of those questions that you save until last on the exam r you have to think through it.
+
+Hey, so it is monday, april sixteenth.
+
+You have arrived in this room to take the last exam.
+
+You're completely fatigued.
+
+Your head is full of so much and you see this question and you lose hope.
+
+Well, here's what i hope you d'oh.
+
+I hope you say abductor muscles.
+
+Abductor muscles can never generate.
+
+Add dr tork under any circumstance, so i'm not going to think about be indeed.
+
+I just know that about abductor muscles.
+
+They can never make add dr tork.
+
+And so then i'm left with generate abductor torque.
+
+When acting concept trick lee during abduction well during abduction and abductor is lengthening.
+
+That doesn't make sense, so it must be sing.
+
+So in other words, what i want you to do is to think, not get lost in the words just it's obvious.
+
+Apply a few simple ideas.
+
+All right, so now we've got our mid century guy doing this movement, lowering the bar bell from titian, carefully controlling the bar bell while he's doing it.
+
+He does not wish to bruise his thighs or hyper extend his knees.
+
+So how will he do this task ?
+
+He will do the task by activating hiss flex, sirs, and they are lengthening while lowering this bar bell.
+
+And so it's e centric action.
+
+L.
+
+Bowflex.
+
+You're absolutely correct.
+
+With talked about the need joint when standing up.
+
+Let's talk about the hip joint.
+
+What's going on ?
+
+How are you controlling action at the when standing up out of a chair ?
+
+Tired here, she i can't tell about.
+
+Let me see that sub pubic arch with and then maybe we'd know if it's a here.
+
+Is she all right ?
+
+So oh, have what ?
+
+Going on when this entity is.
+
+This.
+
+How will i get through the end of the semester ?
+
+Yeah, man.
+
+God, a big vote for extensive concept trick.
+
+That is correct.
+
+The hip joint is extending gravity wants to keep the hip flexed in the chair.
+
+So we're going to turn on mussels that are opposite to gravity.
+
+That would extensive sirs, extensive shortness.
+
+We're looking include ius, maximus there during his extension, so it's concentrate.
+
+Action.
+
+Three dancers.
+
+Now we have our mid century fella in the pt clinic.
+
+And he is doing this task wait.
+
+Task.
+
+And so um what's going on ?
+
+Have the need.
+
+And you have to decided that the ni extensive zehr acting eccentrically here.
+
+Yeah, your your physical therapist just saying slowly lower the weight.
+
+So gravity wants to flex the knee.
+
+You are slowly lowering.
+
+You're the weight by flexing your knee so you have to turn on the muscles opposite to gravity.
+
+That's the extent, sirs.
+
+The extensive were active there, generating stent sir torque to counteract gravity, and they are lengthening as the knee flexes.
+
+So you are working in the same muscle group, no matter which way the joint is moving.
+
+In this case, you're getting strengthening.
+
+Benefit your engaging the same muscles in both directions on this task.
+
+Here's another one.
+
+Can we generalize about muscle function ?
+
+Okay.
+
+I agree.
+
+Muscles that act eccentrically during election that means muscles that happened to be active and lengthening during flexion are extensive.
+
+True.
+
+Muscles that act concentra clea during flexion.
+
+That means they must be shortening during flexion, whether they're on or off our flex hours, so i'm there.
+
+With you.
+
+We're going to consider this movement.
+
+This hell raised task made harder by bearing a wait and added weight during the task.
+
+So why do you do this in the gym ?
+
+What muscles are you trying to turn on and make stronger ?
+
+What muscles are you loading when you do this ?
+
+So you have to turn them on.
+
+And here we go.
+
+You're so correct.
+
+So the movement here is planter flexion to get that heel off far.
+
+They're off being off the platform.
+
+You need to do plant reflection.
+
+Obviously, this is against gravity.
+
+Gravity wants to keep you dorsa flex driven dorset flex you more so you have to turn on plantar flexors.
+
+Plantar flexors shortened during plant reflection so we know it.
+
+Con centric action of the planter flex, sirs.
+
+And we know the only plant reflects who we see in this list is to be alice anteria.
+
+Good.
+
+Right.
+
+So now what happens ?
+
+When he lowers his heel.
+
+And he wants to lower slowly control this movement.
+
+So he is going to continue to use his planter flexes.
+
+But this time there, gravity wants to pull that ankle into dorset.
+
+Flexion.
+
+That's scary with all that weight.
+
+So he wants to slowly.
+
+He wants to control the rate of that dorsal flexion slower than gravity.
+
+So you're going to turn on the planter flex sirs planter flex er's are active while the joint is dorsey flexing.
+
+So the plantar flexors are lengthening.
+
+That's e centric.
+
+Good work.
+
+Uh, when you lower herself from us into a squat from a standing position, which is true.
+
+All right.
+
+Here we go.
+
+What do you think, either a or teo ?
+
+I am so happy that half of you were confused, because this means we're going to clear it up right now, never to fall into this trap again.
+
+So when you lower yourself into a squad from a standing position, i have deflection.
+
+I know gravity wants to flex my knees.
+
+I'm lowering slowly, so i'm going to counter act gravity.
+
+I'm going turn on my extensive er's.
+
+My extensive sirs are acting e centric lee.
+
+And in this case, i'm just talking about the vast eye muscles.
+
+So i'm not talking about him or ankle just need.
+
+So i know that one is correct, but what's happening on the other side of the joint ?
+
+Biceps, femoris and knee flexion and on leonie flex, sir is shortening true because the joint is flexing, but it is not turned on.
+
+It is shortening, but it is not acting concentra clea because it has not been activated.
+
+We aren't making torque.
+
+The brain is not requesting flexor need torque.
+
+Gravity is providing flexor need torque, so it's quiet.
+
+It is shortening, but it's not turned on by the brain.
+
+So that's why the answer is a and be careful when you see concept trick andy centric.
+
+Remember that there is.
+
+It's necessary that the muscles must be activated, must be making torque, which means you have to do this counter acting gravity rule to find out if it's active or not.
+
+You know already whether it's like thing or shortening.
+
+But that's not the same thing as con centric candy centric, so just a heads up on that.
+
+Uh, sit up.
+
+What's happening in control of a sit up here ?
+
+No.
+
+You pick arch there looks narrow.
+
+I'm going to say this male.
+
+And so what's happening in his spine ?
+
+Where what is the muscle action at the neck during this movement ?
+
+The neck ?
+
+I know when i do sit ups, i try to do them with my neck.
+
+But in fact, it's not going to help those abdominals where the real work needs to be done.
+
+Oh, oh, i see neck muscle names here yet again.
+
+Fair for the last exam.
+
+What are we looking at there for ?
+
+A neck muscle ?
+
+We're looking at sternal clyde.
+
+Arm asteroid, i believe.
+
+Okay, so what have you decided ?
+
+I hope you have decided that you need a net.
+
+Affleck.
+
+Sir, gravity wants to leave the head on the ground, which would be extension.
+
+So you need a neck.
+
+You need neck flexor tor while the neck is flexing.
+
+So you need concentrate.
+
+Action of some neck flex.
+
+Er now, which one of these muscles is affleck ?
+
+Sir ?
+
+Do you remember talking about longest coli when we were talking ?
+
+Anterior post cheerier ?
+
+That's all you need to remember.
+
+If it's anterior to flex her and look at that, you do remember that i am so impressed.
+
+My right here we have another issue.
+
+Gravity does not come into play in this task.
+
+This is a rotation movement.
+
+Gravity has the same effect no matter which way he is rotating.
+
+So you're going to have to answer this question as if there are no forces acting except gravity.
+
+I don't think we need to consider resistance again.
+
+They're as very much of external resistance slowed, so i'm going to ask you to answer this question.
+
+By striking out any muscle tour.
+
+Excuse me.
+
+Any force acting ?
+
+The only force in the universe is muscle.
+
+When he's doing this test is the only thing he needs to dio.
+
+And now we can see peroni ous gus, look a lateral compartment passing post eerie er to the lateral malaya list.
+
+We can see his celia's and his lateral gas truck hit.
+
+Okay.
+
+When you see something like this, take a deep breath.
+
+Step through it.
+
+What do you know ?
+
+The key thing is which way ?
+
+Directions.
+
+The rotating.
+
+We decided he's rotating.
+
+Right.
+
+That's the first step.
+
+Get the movement right.
+
+He's rotating to his right.
+
+So how does somebody rotate to the right ?
+
+They turn on right ipsa, lateral, rotator sze and they turn on left contra lateral rotator sze.
+
+Now here's the rub are the right ipsa lateral rotator shortening check are the left contra lateral rotator shortening ?
+
+Yeah, so it's concentrate action.
+
+Right, efsa laterals.
+
+So that leaves me with c and a and then the left contra laterals are shortening also.
+
+So again, so happy to see that half of you i can get this cleared up right now.
+
+The contra lateral rotate er's shorten.
+
+That's the confusing, strange thing about contra battle rotator.
+
+The left contra lateral rotate er's short.
+
+When you rotate to the right by definition of their muscle function, they shorten in the direction of their functions.
+
+So if they're contra laval rotator, they're shortening when the direction of rotation is in the direction of the opposite side of the body.
+
+Okay, tuck that thought away.
+
+Now the tough, tough, tough thing is going to be which muscles are contra lateral rotator and which muscles are it's a lateral rotator sze and the opportunity to see if you remember anything about that.
+
+So we're looking here for can you name one contra lateral rotator or too controversial ?
+
+Rotator can you name ?
+
+And it's a lateral rotator.
+
+Do you have any memory of this ?
+
+Take a pass through this before the last exam fair game.
+
+Stay calm when you get hit a question like this and just take it slow and obvious.
+
+Apply the basic rules and you will end up in the right place and we're still thinking of muscle name.
+
+We're still thinking of muscle names.
+
+We don't.
+
+You know to, you know, the internal and external oblique, right ?
+
+And there they are.
+
+Internal extra oblique abdominals, not and not finance there.
+
+So this is just a heads up, right to remember some of that rotation function.
+
+Some of the muscles, the big ones, right ?
+
+The important ones ?
+
+No.
+
+So here's a head scratcher.
+
+What's going on here ?
+
+And believe me, the hardest part of this one is what is the movement this person is doing from this position to this position, and in order to answer that, keep going in that direction and you'll get into territory where you recognize immediately what the movement is and then take it from there.
+
+Okay.
+
+What if we're caught ?
+
+Uh, mostly we have.
+
+Extensive is acting concentra.
+
+Clea.
+
+Ooh.
+
+Okay, let's talk through this.
+
+This movement is election of the glen.
+
+Oh, hugh meral, joint gravity clearly wants to hyper extend that joint.
+
+So we're going to turn on the flex, sirs.
+
+And their act thing.
+
+Extensive is acting concentric lee.
+
+Did i say that wrong ?
+
+Movement deflection.
+
+Gravity wants to extend, so the flexors are acting concentra.
+
+Clea, during this tax there kitty.
+
+Name a muscle shortening during this task.
+
+Okay.
+
+Is there anything wrong with my logic here is clearly flexion gravity wants to extend.
+
+So the flex hours have to be so i incorrectly the wrong check mark in the right place.
+
+We've got flexes acting con centric lee during this test.
+
+What ?
+
+All right.
+
+What ?
+
+What ?
+
+What ?
+
+Yeah.
+
+Oh, you think about pectorals, major.
+
+Uh, you are flexing.
+
+Yeah.
+
+I mean, the triceps are triceps.
+
+Long head.
+
+If you're in a hyper extended position, i think triceps might reverse its funk.
+
+Yeah, so it's a little bit complicated.
+
+When tricep short weight.
+
+Yeah, because yes, well, like, have here i look a little confused or foolish up here, which may be the case.
+
+I'm fine with that.
+
+I just want to be sure that i'm answering your question correctly.
+
+We see that sort of thing with pectorals, major, that depending on where the humerus is the line of action might might change when you when you get past a ninety degree or one eighty degrees.
+
+Yeah, so that subtlety, that's great.
+
+It tells me you're thinking you ready for the next level ?
+
+Analogous.
+
+You have a question ?
+
+Yeah.
+
+Oh, so what's the answer ?
+
+Good answer.
+
+Uh, let's let's make that clear.
+
+The correct answer is the fifteen.
+
+Yeah.
+
+Oh.
+
+I knew there was something wrong with all of this.
+
+I was calling this flexion just now.
+
+Thank you.
+
+Thank you.
+
+I was foolish and i was wrong.
+
+Thank you.
+
+And i'm still standing.
+
+I knew there was something wrong here.
+
+Okay.
+
+Thank you.
+
+It turns out this movement is not called flexion.
+
+This with what is called extension.
+
+And am i his red is my sweater right now.
+
+I might be, um so so thank you.
+
+So we have.
+
+The movement is extension.
+
+Gravity wants tio go this a way, and this way would be actually hyper reflection.
+
+Okay.
+
+I'm seeing some nods with the world.
+
+The planet spinning the right direction again.
+
+Good.
+
+Oh, my gosh.
+
+I just called this flexion.
+
+Oh, my gosh.
+
+But its extension.
+
+So let's go, khen.
+
+Let's try ulrika five.
+
+Okay, so we have a movement of extension.
+
+Gravity wants to flex.
+
+Therefore we turn on the extent serves us the question about the extent thurs and so the extensive zehr acting concentra clea.
+
+Oh, okay.
+
+See what can happen.
+
+See what can happen to get the movement wrong and it all goes down.
+
+Right ?
+
+So the world is good again.
+
+And do we know any muscle that might be a shoulder extensive her acting concentra, clea, during this movement shoulder extension.
+
+It's not what it says.
+
+What muscle is active and shortening during this ?
+
+Oh, thank you.
+
+I have lost my footing.
+
+Get the bold claim that if you follow the steps, you'll always end up in the right place with the caveat that you get the answer to each of the steps correct.
+
+Do not skip steps.
+
+And so you have decided that an extensive termite b terry's major i agree.
+
+Triceps breaky, i long head, i agree.
+
+Pecked braless.
+
+Minor pectorals minor have anything to do with glenn ?
+
+Oh, hugh meral joint movement.
+
+Goes along for the ride or doesn't have direct control of that joint.
+
+Pectorals major sternal head.
+
+Good work.
+
+Double rethink.
+
+Kalid, vehicular head.
+
+Serena sentir does not cross the glen of huma rolled joint.
+
+Okay, so you get the picture.
+
+And the moment of black.
+
+Oh, here's another good one.
+
+What is the muscle action at the spine when you do this ?
+
+The captain.
+
+Is this the cat ?
+
+Oh, let me let me she learns.
+
+Open the question.
+
+Okay.
+
+I guess question now is will i get the answer right ?
+
+Since you seem to be doing well at that, toby, do well at that.
+
+So, uh, what we got here ?
+
+We have a big choice for concentrate action of the spying fleck.
+
+Sirs, this is not obvious.
+
+So what is the movement ?
+
+The movement is spine flexion.
+
+Gravity wants to keep this belly sagging.
+
+Gravity wants to extend and hyper extend this fine scene.
+
+Going to need to turn on the spine flex er's to create this movement so the spine flexes are shortening during this action of spy inflection.
+
+So it's con central, which is what you said.
+
+Now, here is where your your expiry get in the way of that when you do this, what is it that you're experiencing ?
+
+You're experiencing pleasure of the stretch of your spine.
+
+Extensive.
+
+Right.
+
+It feels so good to do this because you're enjoying feeling of stretch and it doesn't take too much in terms of its not hurting.
+
+Your abdominals aren't like a king when you do a sit up.
+
+Because there's not much of a load to put your spine in this.
+
+So you forget about this find flexes.
+
+They're doing the work so you could enjoy this stretch of the extensive.
+
+No.
+
+Why is this so hard to do ?
+
+This one is all about getting the movement correct.
+
+There is no movement, no per se.
+
+You're holding this position.
+
+But what movement would happen ?
+
+Gravity was acting and you just relaxed when you were propped up on the right elbow.
+
+What is the movement that gravity would ?
+
+If only gravity is acting, what would happen to your spine ?
+
+What's the name of the movement would happen to your spine ?
+
+That's the key to this.
+
+Here's the relationship between his right arm and his spine.
+
+Gravity is cool.
+
+Yes, his chest down so that here thorax will be closer to his right.
+
+So what is that in terms of lateral ?
+
+Try this at home.
+
+Do this at home and just to reinforce what were thinking here.
+
+So right away, i'm going to ignore be indeed because it's isometric.
+
+He's not moving.
+
+The answer must be one of the isometric options, and the question is left or right.
+
+Lateral flexor, hers and most of you think right lateral flexor er's and most of you are correct because his chest would sink into his body was sinking into a position of left lateral flexion.
+
+Do this at home, you'll get it.
+
+And then so that means we have to turn on the right lateral flexor and any clue as to what might make lateral right lateral flexion torque.
+
+Name a muscle.
+
+Any muscle on the right side of the spine, correct.
+
+Lateral flexion is always an ips, a lateral situation.
+
+You remember any of those ?
+
+Fine.
+
+Okay, rector brain long enough.
+
+You come up was something.
+
+What you need is the word.
+
+Right, right, right.
+
+Sided muscle.
+
+Okay.
+
+So here's i've been living with a couple of thoughts.
+
+Here's a water skier.
+
+And if we were to consider knowing what we know now what action is controlling this position of his shoulder muscles, we would say that gravity would tend to extend years.
+
+Glenn o que meral joint.
+
+I think i've learned the name of the movement.
+
+That's what gravity would do.
+
+So in our current way of thinking, we would say, oh, he's turned on his shoulder flex er's to maintain this position.
+
+But that's not the case, right ?
+
+Because the force on his upper arm here is resisting is dealing with the force of this rope.
+
+So i am.
+
+I am putting this here to tell you that, uh, what we're doing in here with this kind of simplistic rule of considering just gravity.
+
+Being the main force that we work against is is true within the confines of movement science to thirty, and it's convenient to really drive home this notion of east centric and concentrate control.
+
+But as you move on in your courses and you begin to understand that the world has more in it than gravitational and muscle force is how you're going to answer this question different because you'll have to include these other forces.
+
+So that's just at what's to come.
+
+Ah, next time we will consider how muscles function during walking, where we'll be considering a more advanced notion of other muscle of other forces acting on the body and will pull in data on muscle activity that we know from gm and she recorded, and so will consider muscle action in that particular movement task.
+
+So that's what's up next.
+
+So take away some of you might feel like i've got this.
+
+You do, if you if you're comfortable with these four rules and you follow them, being sure to get the muscle, the movement right, you'll be good if you're still a little lippy with there's plenty o practice in the post class quiz today.
+
+They're jillian's practice questions for you, so that's what you need to know with regards to my selection is what we've done here today.
+
+Good work and i'll see you next time.
+
+Thank you, ryan.
+
+Just wait.
+
+Oh.
+
+You know, you stand up here like i've got my own trap essentially.
+
+Yeah, yes.
+
+No.
+
+Answer.
+
+I said, man.
+
+Thank you.
+
+No again.
+
+You're.
+
+Like.
+
+And ramming sixteenth century anatomy into my head right now, is that is that trips you used to look ?
+
+A sculpture and anatomy, so anatomy part of it will be.
+
+I can't.
+
+What ?
+
+Oh, my.
+
+And then we i need.
+
+Have this go for you today ?
+
+You have it, burn it just all right.
+
+Clear what the job is anyway, way.
+
+I literally when i window this morning.
+
+What ?
