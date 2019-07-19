@@ -1,5 +1,5 @@
 # Thomas Horak (thorames)
-# summarize.py
+# sentence_summarize.py
 import os
 import re
 import sys
