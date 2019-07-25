@@ -1,4 +1,5 @@
 MOVESCI230 Bronze Transcription Accuracy : 0.886034993778
+MOVESCI230b Bronze Transcription Accuracy : 0.883750857611
 MOVESCI230 Silver Transcription Accuracy : 0.945644469999
 
 CLIMATE102 Bronze Transcription Accuracy : 0.890492162277
