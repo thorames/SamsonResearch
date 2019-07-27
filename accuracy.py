@@ -7,7 +7,6 @@ import sys
 from num2words import num2words
 from nltk.corpus import stopwords
 stopwords = set(stopwords.words('english'))
-from nltk.tokenize import RegexpTokenizer
 
 def load_word_ranks():
     word_ranks = {}
@@ -23,6 +22,18 @@ def load_word_ranks():
             count += 1
 
     return word_ranks
+
+def load_contractions():
+    contractions = {}
+    path = os.getcwd()
+
+    with open(path + "/contractions.txt") as tsvin:
+        reader = csv.reader(tsvin, delimiter='\t')
+
+        for row in reader:
+            contractions[row[0].lower()] = row[1].lower()
+
+    return contractions
 
 def json_to_plain_txt(text):
     start = text.find("[{\"transcript\":\"") + 16
@@ -48,13 +59,12 @@ def read_transcripts(inputDirectory):
                 break
     return transcripts
 
-def score_transcripts(transcripts, word_ranks):
+def score_transcripts(transcripts, word_ranks, contractions):
     transcript_scores = {}
 
     for key, value in transcripts.iteritems():
         value = re.sub('\r', ' ', value)
-        value = re.sub(r'[^a-zA-Z\d\s\,]', ' ', value)
-        value = re.sub(r'\,', '', value)
+        value = re.sub(r'[^a-zA-Z\d\s\']', ' ', value)
         value = value.lower()
         tokens = value.split()
 
@@ -69,6 +79,18 @@ def score_transcripts(transcripts, word_ranks):
                 new_tokens += new_token
             else:
                 new_tokens.append(token)
+        tokens = new_tokens
+
+        new_tokens = []
+        for token in tokens:
+            if token in contractions:
+                new_token = contractions[token]
+                new_token = new_token.split()
+                new_tokens += new_token
+            else:
+                token = re.sub(r'[^a-zA-Z\d\s]', ' ', token)
+                token = token.split()
+                new_tokens += token
         tokens = new_tokens
 
         #tokens = [t for t in tokens if t not in stopwords]
@@ -100,11 +122,12 @@ def main():
     silverDirectory = sys.argv[2]
 
     word_ranks = load_word_ranks()
+    contractions = load_contractions()
     goldTranscripts = read_transcripts(goldDirectory)
-    gold_standard_scores = score_transcripts(goldTranscripts, word_ranks)
+    gold_standard_scores = score_transcripts(goldTranscripts, word_ranks, contractions)
 
     silverTranscripts = read_transcripts(silverDirectory)
-    silver_standard_scores = score_transcripts(silverTranscripts, word_ranks)
+    silver_standard_scores = score_transcripts(silverTranscripts, word_ranks, contractions)
 
     accuracy(gold_standard_scores, silver_standard_scores)
 
