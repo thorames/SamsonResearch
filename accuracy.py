@@ -150,9 +150,8 @@ def accuracy(gold_standard_scores, silver_standard_scores):
 
     for key, value in silver_standard_scores.iteritems():
         if key in gold_standard_scores:
-            difference = abs(gold_standard_scores[key] - silver_standard_scores[key])
-            #print(key + " : " + str(float(float(gold_standard_scores[key] - difference) / float(gold_standard_scores[key]))))
-            average_accuracy += float(float(gold_standard_scores[key] - difference) / float(gold_standard_scores[key]))
+            print(key + " : " + str(float(float(silver_standard_scores[key]) / float(gold_standard_scores[key]))))
+            average_accuracy += float(float(silver_standard_scores[key]) / float(gold_standard_scores[key]))
             count += 1
 
     average_accuracy = float(float(average_accuracy) / float(count))
