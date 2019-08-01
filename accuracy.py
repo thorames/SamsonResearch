@@ -17,9 +17,9 @@ def load_word_ranks():
 
         count = 1
         for row in reader:
-            if row[0].lower() not in stopwords:
-                word_ranks[row[0].lower()] = count
-                count += 1
+            #if row[0].lower() not in stopwords:
+            word_ranks[row[0].lower()] = count
+            count += 1
 
     return word_ranks
 
@@ -93,7 +93,7 @@ def word_counts(transcripts, contractions):
                 new_tokens += token
         tokens = new_tokens
 
-        tokens = [t for t in tokens if t not in stopwords]
+        #tokens = [t for t in tokens if t not in stopwords]
 
         word_counts[key] = {}
         for token in tokens:
