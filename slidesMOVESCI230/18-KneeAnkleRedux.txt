@@ -1,0 +1,405 @@
+Movesci 230 Human Musculoskeletal Anatomy
+Knee Ankle Foot Muscles Redux
+1
+
+Name a muscle that is stretched in this position
+
+1
+2
+3
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 476a
+
+1 - Biceps femoris
+
+2 - Iliotibial tract
+
+1
+8
+3
+4
+Left lateral knee:
+
+1 - Patellar ligament
+3 - Iliotibial band
+7 - Lateral gastrocnemius
+8 - Biceps femoris
+12 - Soleus
+13 - Peroneus longus
+15 - Extensor digitorum longus
+16 - Tibialis anterior
+
+Pes anserinus
+1
+5
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 476b
+
+Pes anserinus – Sartorius, Gracilis, Semitendinosus
+
+1 - Semimembranosus
+
+8
+1
+2
+3
+7
+6
+Anteromedial left knee:
+
+1 - Gracilis
+2 - Adductor magnus
+3 - Sartorius
+7 - Vastus medialis
+8 - Rectus femoris
+10 - Quadriceps femoris tendon
+
+5
+7
+Anterior proximal left femur:
+
+5 - Vastus intermedius
+
+6
+10
+Origin of which muscles?
+8
+Posterior proximal left femur:
+
+6 - Vastus medialis
+10 - Vastus lateralis
+
+6
+10
+9
+9
+Distal posterior left femur:
+
+4 - Vastus medialis
+6 - Medial gastrocnemius
+9 - Lateral gastrocnemius
+10 - Plantaris
+11 - Biceps femoris, short heat
+
+10
+Posterior left knee:
+
+2 - Gracilis
+4 - Semimembranosus
+5 - Semitendinosus
+6 - Biceps femoris
+7 - Vastus lateralis
+8 - Sartorius
+9 - Gastrocnemius, medial head
+10 - Gastrocnemius, lateral head
+11 - Plantaris
+
+Pes anserinus
+Biceps femoris
+Medial gastrocnemius
+Lateral gastrocnemius
+Plantaris
+11
+Posterior left knee:
+
+2 - Gracilis
+4 - Semimembranosus
+5 - Semitendinosus
+6 - Biceps femoris
+7 - Vastus lateralis
+8 - Sartorius
+9 - Gastrocnemius, medial head
+10 - Gastrocnemius, lateral head
+11 - Plantaris
+
+Click on lateral gastrocnemius
+12
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Lateral gastrocnemius
+
+2 - Medial gastrocnemius
+
+3 - Soleus
+
+3
+2
+1
+13
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Lateral gastrocnemius
+
+2 - Medial gastrocnemius
+
+3 - Soleus
+
+Soleus
+Medial gastrocnemius
+Lateral gastrocnemius
+14
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Lateral gastrocnemius
+
+2 - Medial gastrocnemius
+
+3 - Soleus
+
+4
+1
+7
+15
+Posterolateral left calf:
+
+1 - Lateral gastrocnemius
+4 - Medail gastrocnemius
+6 - Aponeurotic part of Achilles tendon
+7 - Soleus
+8 - Peroneus longus
+
+
+17
+
+18
+
+19
+
+Click on a toe flexor
+20
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Lateral gastrocnemius
+
+2 - Medial gastrocnemius
+
+3 - Soleus
+
+Tibialis anterior
+EHL, EDL
+FHL, FDL
+*
+*
+Tibialis posterior
+21
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Extensor digitorum longus
+
+2 - Extensor hallucis longus
+
+3 - Tibialis anterior
+
+Click on peroneus longus or peroneus brevis
+22
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 491b
+
+1 - Lateral gastrocnemius
+
+2 - Medial gastrocnemius
+
+3 - Soleus
+
+16
+EDL
+7
+12
+13
+23
+Left lateral knee:
+
+1 - Patellar ligament
+3 - Iliotibial band
+7 - Lateral gastrocnemius
+8 - Biceps femoris
+12 - Soleus
+13 - Peroneus longus
+15 - Extensor digitorum longus
+16 - Tibialis anterior
+
+What does “overpronation” mean?
+
+25
+1 - Peroneus brevis
+2 - Peroneus longus
+3 - Peroneus tertius
+4 - Estensor digitorum longus
+5 - Extensor hallucis longus
+6 - Tibialis anterior
+7 - Tibialis posterior
+8 - Flexor digitorum longus
+9 - Flexor hallucis longus
+10 - Gastrocnemius, soleus, plantaris
+
+ANTERIOR
+LATERAL
+POSTERIOR
+MEDIAL
+Plantarflexion
+Dorsiflexion
+Dorsiflexion
+Plantarflexion
+Inversion
+Inversion
+Eversion
+Eversion
+26
+1 - Peroneus brevis
+2 - Peroneus longus
+3 - Peroneus tertius
+4 - Estensor digitorum longus
+5 - Extensor hallucis longus
+6 - Tibialis anterior
+7 - Tibialis posterior
+8 - Flexor digitorum longus
+9 - Flexor hallucis longus
+10 - Gastrocnemius, soleus, plantaris
+
+ANTERIOR
+LATERAL
+POSTERIOR
+MEDIAL
+Plantarflexion
+Dorsiflexion
+Dorsiflexion
+Plantarflexion
+Inversion
+Inversion
+Eversion
+Eversion
+*
+27
+1 - Peroneus brevis
+2 - Peroneus longus
+3 - Peroneus tertius
+4 - Estensor digitorum longus
+5 - Extensor hallucis longus
+6 - Tibialis anterior
+7 - Tibialis posterior
+8 - Flexor digitorum longus
+9 - Flexor hallucis longus
+10 - Gastrocnemius, soleus, plantaris
+
+ANTERIOR
+LATERAL
+POSTERIOR
+MEDIAL
+TP
+Achilles tendon
+TA
+EDL
+PT
+PB
+Plantarflexion
+Dorsiflexion
+Dorsiflexion
+Plantarflexion
+Inversion
+Inversion
+Eversion
+Eversion
+FDL
+FHL
+EHL
+PL
+28
+
+ANTERIOR
+LATERAL
+POSTERIOR
+MEDIAL
+TP
+GAS
+TA
+EDL
+PT
+PL
+Dorsiflexion
+Plantarflexion
+Inversion
+Eversion
+FDL
+FHL
+EHL
+PB
+SOL
+PLT
+1
+2
+3
+4
+5
+6
+8
+7
+9
+10
+29
+1 - Peroneus brevis
+2 - Peroneus longus
+3 - Peroneus tertius
+4 - Estensor digitorum longus
+5 - Extensor hallucis longus
+6 - Tibialis anterior
+7 - Tibialis posterior
+8 - Flexor digitorum longus
+9 - Flexor hallucis longus
+10 - Gastrocnemius, soleus, plantaris
+
+6
+What muscle inserts at 6?
+30
+Dorsal foot:
+
+1 - Achilles tendong (gastrocnemius and soleus)
+3 - Extensor digitorum brevis (origin)
+6 - Peroneus brevis
+14 - Extensor hallucis longus
+15 - Extensor digitorum longus and extensor digitorum brevis
+
+What’s Wrong with this Picture?
+31
+
+8
+1
+2
+3
+7
+4
+11
+32
+Superior lateral view of left ankle and foot:
+
+1 - Tibialis anterior
+2 - Extensor hallucis longus
+3 - Extensor digitorum longus
+4 - Peroneus tertius
+7 - Peroneus brevis
+8 - Peroneus longus
+11 - Extensor digitorum brevis
+
+27
+34
+Which two muscles insert here?
+33
+Plantar surface of left foot:
+
+1 - Achilles tendon (gastrocnemius and soleus)
+26 - Tibialis posterior
+27 - Tibialis anterior
+31 - Flexor hallucis longus
+32 - Flexor digitorum longus
+34 - Peroneus longus
+
+26
+Insertion of which muscle?
+34
+Plantar surface of left foot:
+
+1 - Achilles tendon (gastrocnemius and soleus)
+26 - Tibialis posterior
+27 - Tibialis anterior
+31 - Flexor hallucis longus
+32 - Flexor digitorum longus
+34 - Peroneus longus
+
+This is the end of the 18-Knee Ankle Muscles Redux. 
+Don’t forget to go to the Practice After Class section of the Module to keep learning!

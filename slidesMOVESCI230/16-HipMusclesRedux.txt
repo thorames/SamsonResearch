@@ -1,0 +1,468 @@
+Movesci 230 Human Musculoskeletal Anatomy
+
+Hip Muscles Redux
+1
+
+Which muscles have origin at 3, 4 and 5?
+3
+4
+5
+2
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Which muscle inserts at 2?
+2
+3
+2 - gluteus minimus
+7 - iliopsoas
+
+What is the function of muscles 5 and 6?
+5
+6
+4
+2 - psoas major
+3 - iliacus
+5 - gluteus medius
+6 - gluteus minimus
+12 - adductor longus
+13 - pectineus
+
+Click on 
+gluteus medius
+5
+6
+5
+2 - psoas major
+3 - iliacus
+5 - gluteus medius
+6 - gluteus minimus
+12 - adductor longus
+13 - pectineus
+
+Chimp – Gluteus Med > Max
+Human – Gluteus Max > Med
+The relative size of gluteus medius and gluteus maximus varies with locomotor function
+6
+
+Abductor muscle force is a key element in bipedal locomotion. Did Lucy walk upright?
+Human
+Lucy
+Body Weight
+Abductor Muscle Force
+Hip Joint
+7
+
+Body weight and abductor muscle forces load the femoral neck in a distinctive pattern during gait
+Body Weight
+Tension superiorly, compression inferiorly
+Abductor Muscle Force
+Less stress superiorly,
+More compression inferiorly
+Compression stress, superiorly & inferiorly
++
+=
+Combined Loading
+8
+
+Bone in the femoral neck responds to the typical loads imposed by locomotion
+Lucy
+Human
+Chimp
+Combined loading (body weight + abductor muscle force) produces greatest compressive loads on inferior aspect of neck of femur 🡺 thickest cortical bone.
+9
+
+1
+1?
+10
+1 - gluteus medius
+4 - iliopsoas
+5 - pectineus
+7 - adductor brevis
+8 - adductor magnus
+9 - gluteus maximus
+12 - gluteus minimus
+
+What is muscle 3?
+2
+3
+11
+2 - psoas major
+3 - iliacus
+5 - gluteus medius
+6 - gluteus minimus
+12 - adductor longus
+13 - pectineus
+
+What muscle originates at 6?
+6
+12
+6 - iliacus
+7, 8 - tensor fasciae latae, sartorius
+9 - rectus femoris
+
+
+What is the insertion of muscles 3 and 4?
+3
+4
+13
+3 - psoas major
+4 - iliacus
+3, 4 - iliopsoas
+7 - tensor fasciae latae
+9 - rectus femoris
+10 - sartorius
+11 - adductor longus
+12 - gracilis
+13 - adductor brevis
+14 - pectineus
+
+14
+7 - iliopsoas
+11 - gluteus medius
+1, 9, 10 - deep external rotators
+
+
+What are these
+two muscles?
+
+Which two muscles originate here?
+*
+16
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Click on the origin of rectus femoris
+17
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Identify the muscle
+7
+10
+18
+3 - psoas major
+4 - iliacus
+3, 4 - iliopsoas
+7 - tensor fasciae latae
+9 - rectus femoris
+10 - sartorius
+11 - adductor longus
+12 - gracilis
+13 - adductor brevis
+14 - pectineus
+
+4
+5
+3
+What function do muscles 3, 4 and 5 share at the hip?
+19
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 464
+
+1 - Gluteus maximus
+
+2 - Biceps femoris
+
+3 - Tensor fasciae latae
+
+4 - Sartorius
+
+5 - Rectus femoris
+
+6 - Iliotibial tract
+
+Sartorius
+Rectus femoris
+Tensor fascia latae
+Anterior muscles flex the hip
+20
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 464
+
+1 - Gluteus maximus
+
+2 - Biceps femoris
+
+3 - Tensor fasciae latae
+
+4 - Sartorius
+
+5 - Rectus femoris
+
+6 - Iliotibial tract
+
+4
+1
+2
+3
+Which of these muscles is a medial rotator of the hip?
+21
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 462a
+
+1 - Tensor fasciae latae
+
+2 - Rectus femoris
+
+3 - Iliopsoas
+
+4 - Sartorius
+
+
+Delp, S.L., Bleck, E.E., Zajac, F.E., & Bollini, G. (1990). Biomechanical analysis of the Chiari pelvic osteotomy: Preserving hip abductor strength. Clinical Orthopaedics and Related Research, 254(5), 189-198.
+
+
+
+What is the function of these muscles?
+13
+12
+26
+2 - psoas major
+3 - iliacus
+5 - gluteus medius
+6 - gluteus minimus
+12 - adductor longus
+13 - pectineus
+
+Which muscle originates at 25?
+25
+27
+3,  4 - tensor fasciae latae, sartorius
+5 - rectus femoris
+11 - semimembranosus, semitendinosus, biceps femoris - long head
+13 - adductor magnus
+15 - gracilis
+16 - adductor brevis
+17 - adductor longus
+25 - pectineus
+
+Click on pectineus 
+28
+3 - psoas major
+4 - iliacus
+3, 4 - iliopsoas
+7 - tensor fasciae latae
+9 - rectus femoris
+10 - sartorius
+11 - adductor longus
+12 - gracilis
+13 - adductor brevis
+14 - pectineus
+
+1
+2
+3
+Name these muscles
+29
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 462b
+
+1 - Pectineus
+
+2 - Adductor longus
+
+3 - Gracilis
+
+Click on insertion of adductor magnus
+
+1
+Describe the function of this muscle at the hip
+31
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 463
+
+1 - Adductor magnus
+
+Click on the insertion of muscles with “adductor” in their name
+32
+1 - gluteal tuberosity (attachment site for gluteus maximus)
+3 - pectineal line (attachment site for pectineus)
+4 - linea aspera on B; attachment of adductor magnus on C
+5 - iliopsoas
+6 - pectineus
+7 - adductor brevis
+9 - adductor longus
+
+Click on the origin of adductor longus
+33
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Which two muscles originate here?
+*
+34
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Click on the origin of the hamstrings
+35
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+Hamstrings
+Adductor magnus
+*
+*
+Origin of:
+36
+3 - gluteus minimus
+4 - gluteus medius
+5 - gluteus maximus
+9, 10 - semimembranosus, semitendinosus, biceps femoris - long head
+12 - adductor magnus
+14 - gracilis
+15 - adductor brevis
+16 - adductor longus
+20 - rectus femoris
+21, 22 - tensor fasciae latae, sartorius
+
+What is this muscle?
+?
+
+Adductor magnus?
+38
+6 - psoas major
+7 - iliacus
+12 - adductor longus
+13 - gracilis
+14 - adductor magnus
+15 - gluteus maximus
+
+What is this muscle?
+*
+39
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 465a
+
+
+Semitendinous
+Biceps femoris – long head
+Semimembranosus (deep to 3)
+Adductor magnus
+40
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 465a
+
+
+1
+2
+What function do these muscles share at the hip?
+41
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 464
+
+1 - Gluteus maximus
+
+2 - Biceps femoris
+
+3 - Tensor fasciae latae
+
+4 - Sartorius
+
+5 - Rectus femoris
+
+6 - Iliotibial tract
+
+Tendon for which two muscles?
+42
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 464
+
+1 - Gluteus maximus
+
+2 - Biceps femoris
+
+3 - Tensor fasciae latae
+
+4 - Sartorius
+
+5 - Rectus femoris
+
+6 - Iliotibial tract
+
+Click on insertion of six deep lateral rotators
+43
+7 - iliopsoas
+11 - gluteus medius
+1, 9, 10 - deep external rotators
+
+
+2
+6
+8
+7
+3
+4
+44
+1 - gluteus maximus
+2 - piriformis
+6 - obturator internus
+7 - obturator externus
+8 - quadratus femoris
+Superior to 6 - gemellus superior
+Inferior to 6 - gemellus inferior
+
+Click on gluteus minimus
+45
+Netter FH.  Atlas of Human Anatomy.  Ciba-Geigy, NJ, 1995. Figure 465b
+1 - Piriformis
+
+2 - Superior gemellus
+
+3 - Obturator internus
+
+4 - Inferior gemellus
+
+5 - Quadratus femoris
+
+6 - Gluteus medius
+
+7 - Gluteus minimus
+
+8 - Gluteus maximus
+
+Click on quadratus femoris
+
+Don’t forget to visit Modules in Canvas and navigate to today’s lecture so you can access the great practice materials and keep learning!
+
+This is the end of the material that will be covered in Exam 3. 
