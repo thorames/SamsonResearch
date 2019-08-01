@@ -17,9 +17,9 @@ def load_word_ranks():
 
         count = 1
         for row in reader:
-            #if row[0].lower() not in stopwords:
-            word_ranks[row[0].lower()] = count
-            count += 1
+            if row[0].lower() not in stopwords:
+                word_ranks[row[0].lower()] = count
+                count += 1
 
     return word_ranks
 
@@ -59,8 +59,8 @@ def read_transcripts(inputDirectory):
                 break
     return transcripts
 
-def score_transcripts(transcripts, word_ranks, contractions):
-    transcript_scores = {}
+def word_counts(transcripts, contractions):
+    word_counts = {}
 
     for key, value in transcripts.iteritems():
         value = re.sub('\r', ' ', value)
@@ -93,16 +93,56 @@ def score_transcripts(transcripts, word_ranks, contractions):
                 new_tokens += token
         tokens = new_tokens
 
-        #tokens = [t for t in tokens if t not in stopwords]
+        tokens = [t for t in tokens if t not in stopwords]
 
-        transcript_score = 0
+        word_counts[key] = {}
         for token in tokens:
-            if token in word_ranks:
-                transcript_score += word_ranks[token]
+            if token in word_counts[key]:
+                word_counts[key][token] += 1
+            else:
+                word_counts[key][token] = 1
+
+    return word_counts
+
+def score_gold_transcripts(word_counts, word_ranks):
+    transcript_scores = {}
+
+    for key, value in word_counts.iteritems():
+        transcript_score = 0
+
+        for key2, value2 in value.iteritems():
+            if key2 in word_ranks:
+                transcript_score += (word_ranks[key2] * value2)
 
         transcript_scores[key] = transcript_score
 
     return transcript_scores
+
+def score_silver_transcripts(gold_standard_scores, word_ranks, gold_word_counts, silver_word_counts):
+    silver_standard_scores = {}
+    difference_word_counts = gold_word_counts
+
+    for key, value in gold_standard_scores.iteritems():
+        silver_standard_scores[key] = value
+
+    for key, value in silver_word_counts.iteritems():
+        for key2, value2 in silver_word_counts[key].iteritems():
+            if key2 in difference_word_counts[key]:
+                difference_word_counts[key][key2] -= value2
+
+    for key, value in difference_word_counts.iteritems():
+        for key2, value2 in difference_word_counts[key].iteritems():
+            if value2 < 0:
+                difference_word_counts[key][key2] = 0
+            else:
+                difference_word_counts[key][key2] = abs(value2)
+
+    for key, value in difference_word_counts.iteritems():
+        for key2, value2 in difference_word_counts[key].iteritems():
+            if key2 in word_ranks:
+                silver_standard_scores[key] -= (value2 * word_ranks[key2])
+
+    return silver_standard_scores
 
 def accuracy(gold_standard_scores, silver_standard_scores):
     count = 0
@@ -111,6 +151,7 @@ def accuracy(gold_standard_scores, silver_standard_scores):
     for key, value in silver_standard_scores.iteritems():
         if key in gold_standard_scores:
             difference = abs(gold_standard_scores[key] - silver_standard_scores[key])
+            #print(key + " : " + str(float(float(gold_standard_scores[key] - difference) / float(gold_standard_scores[key]))))
             average_accuracy += float(float(gold_standard_scores[key] - difference) / float(gold_standard_scores[key]))
             count += 1
 
@@ -118,16 +159,19 @@ def accuracy(gold_standard_scores, silver_standard_scores):
     print("Average Transcription Accuracy : " + str(average_accuracy))
 
 def main():
-    goldDirectory = sys.argv[1]
-    silverDirectory = sys.argv[2]
+    gold_directory = sys.argv[1]
+    silver_directory = sys.argv[2]
 
     word_ranks = load_word_ranks()
     contractions = load_contractions()
-    goldTranscripts = read_transcripts(goldDirectory)
-    gold_standard_scores = score_transcripts(goldTranscripts, word_ranks, contractions)
 
-    silverTranscripts = read_transcripts(silverDirectory)
-    silver_standard_scores = score_transcripts(silverTranscripts, word_ranks, contractions)
+    gold_transcripts = read_transcripts(gold_directory)
+    gold_word_counts = word_counts(gold_transcripts, contractions)
+    gold_standard_scores = score_gold_transcripts(gold_word_counts, word_ranks)
+
+    silver_transcripts = read_transcripts(silver_directory)
+    silver_word_counts = word_counts(silver_transcripts, contractions)
+    silver_standard_scores = score_silver_transcripts(gold_standard_scores, word_ranks, gold_word_counts, silver_word_counts)
 
     accuracy(gold_standard_scores, silver_standard_scores)
 
