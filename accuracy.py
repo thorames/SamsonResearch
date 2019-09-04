@@ -29,7 +29,6 @@ def load_contractions():
 
     with open(path + "/contractions.txt") as tsvin:
         reader = csv.reader(tsvin, delimiter='\t')
-
         for row in reader:
             contractions[row[0].lower()] = row[1].lower()
 
@@ -43,11 +42,10 @@ def json_to_plain_txt(text):
 def read_transcripts(inputDirectory):
     transcripts = {}
 
-    path = os.getcwd()
     inputFiles = [files for (path, dir, files) in os.walk(inputDirectory)]
 
     for file in inputFiles[0]:
-        document = open(path + '/' + file)
+        document = open(inputDirectory + '/' + file, encoding="ISO-8859-1")
         text = document.read()
         if (re.search("{\"jobName", text)):
             text = json_to_plain_txt(text)
@@ -57,12 +55,13 @@ def read_transcripts(inputDirectory):
             if len(number) == 6:
                 transcripts[number] = text
                 break
+
     return transcripts
 
 def word_counts(transcripts, contractions):
     word_counts = {}
 
-    for key, value in transcripts.iteritems():
+    for key, value in transcripts.items():
         value = re.sub('\r', ' ', value)
         value = re.sub(r'[^a-zA-Z\d\s\']', ' ', value)
         value = value.lower()
@@ -107,10 +106,10 @@ def word_counts(transcripts, contractions):
 def score_gold_transcripts(word_counts, word_ranks):
     transcript_scores = {}
 
-    for key, value in word_counts.iteritems():
+    for key, value in word_counts.items():
         transcript_score = 0
 
-        for key2, value2 in value.iteritems():
+        for key2, value2 in value.items():
             if key2 in word_ranks:
                 transcript_score += (word_ranks[key2] * value2)
 
@@ -122,23 +121,23 @@ def score_silver_transcripts(gold_standard_scores, word_ranks, gold_word_counts,
     silver_standard_scores = {}
     difference_word_counts = gold_word_counts
 
-    for key, value in gold_standard_scores.iteritems():
+    for key, value in gold_standard_scores.items():
         silver_standard_scores[key] = value
 
-    for key, value in silver_word_counts.iteritems():
-        for key2, value2 in silver_word_counts[key].iteritems():
+    for key, value in silver_word_counts.items():
+        for key2, value2 in silver_word_counts[key].items():
             if key2 in difference_word_counts[key]:
                 difference_word_counts[key][key2] -= value2
 
-    for key, value in difference_word_counts.iteritems():
-        for key2, value2 in difference_word_counts[key].iteritems():
+    for key, value in difference_word_counts.items():
+        for key2, value2 in difference_word_counts[key].items():
             if value2 < 0:
                 difference_word_counts[key][key2] = 0
             else:
                 difference_word_counts[key][key2] = abs(value2)
 
-    for key, value in difference_word_counts.iteritems():
-        for key2, value2 in difference_word_counts[key].iteritems():
+    for key, value in difference_word_counts.items():
+        for key2, value2 in difference_word_counts[key].items():
             if key2 in word_ranks:
                 silver_standard_scores[key] -= (value2 * word_ranks[key2])
 
@@ -148,7 +147,7 @@ def accuracy(gold_standard_scores, silver_standard_scores):
     count = 0
     average_accuracy = 0
 
-    for key, value in silver_standard_scores.iteritems():
+    for key, value in silver_standard_scores.items():
         if key in gold_standard_scores:
             print(key + " : " + str(float(float(silver_standard_scores[key]) / float(gold_standard_scores[key]))))
             average_accuracy += float(float(silver_standard_scores[key]) / float(gold_standard_scores[key]))
