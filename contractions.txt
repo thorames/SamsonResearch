@@ -42,7 +42,10 @@ isn't	is not
 it'd	it would
 it'll	it will
 it's	it is
+kinda	kind of
 let's	let us
+lemme	let me
+lotta	a lot of
 mayn't	may not
 may've	may have
 mightn't	might not
@@ -86,6 +89,7 @@ this's	this is
 those're	those are
 'tis	it is
 'twas	it was
+wanna	want to
 wasn't	was not
 we'd	we would
 we'd've	we would have
@@ -93,6 +97,7 @@ we'll	we will
 we're	we are
 we've	we have
 weren't	were not
+whatcha	what are you
 what'd	what did
 what'll	what will
 what're	what are
@@ -116,6 +121,7 @@ why's	why is
 won't	will not
 would've	would have
 wouldn't	would not
+ya	you
 y'all	you all
 you'd	you would
 you'll	you will
