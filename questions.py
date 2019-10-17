@@ -189,7 +189,10 @@ def output_questions(sorted_cosine_similarity, questions, choices, answers):
         if re.search(r'\d\.', answers[sorted_cosine_similarity[i][0]][:2]):
             answer_file.write(str(i + 1) + ") " + answers[sorted_cosine_similarity[i][0]][3:] + "\n")
         else:
-            answer_file.write(str(i + 1) + ") " + answers[sorted_cosine_similarity[i][0]] + "\n")
+            if len(answers[sorted_cosine_similarity[i][0]]):
+                answer_file.write(str(i + 1) + ") " + answers[sorted_cosine_similarity[i][0]] + "\n")
+            else:
+                answer_file.write(str(i + 1) + ") (NO ANSWER PROVIDED)" + "\n")
         answer_file.write("\n")
 
     print("\nYou can find these questions and their corresponding answers in \"questions.txt\" and \"answers.txt\".\n")
