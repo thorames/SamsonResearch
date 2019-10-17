@@ -172,8 +172,6 @@ def retrieve_questions(query, inverted_index, num_questions):
     return cosine_similarity
 
 def output_questions(sorted_cosine_similarity, questions, choices, answers):
-    path = os.getcwd()
-
     question_file = open("questions.txt", "w+")
     answer_file = open("answers.txt", "w+")
 
