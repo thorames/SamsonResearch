@@ -7,6 +7,7 @@ import sys
 import json
 import math
 import tqdm
+import random
 import operator
 from nltk import pos_tag
 from datetime import datetime
@@ -49,6 +50,27 @@ def read_transcripts(input_directory):
                         transcripts[transcript_name] = text.lower()
 
     return transcripts
+
+def read_custom_vocabularies(input_directory):
+    custom_vocabularies = {}
+
+    input_files = [files for (path, dir, files) in os.walk(input_directory)]
+
+    for file in input_files[0]:
+        if not file.startswith('.'):
+            transcript_name = file.split(".")[0]
+
+            with open(input_directory + "/" + file) as tsvin:
+                reader = csv.reader(tsvin, delimiter='\t')
+                next(reader)
+
+                custom_vocab = []
+                for row in reader:
+                    custom_vocab.append(row[0].lower())
+
+                custom_vocabularies[transcript_name] = " ".join(custom_vocab)
+
+    return custom_vocabularies
 
 def condense_transcripts(transcripts):
     condensed_transcripts = {}
@@ -294,7 +316,7 @@ def retrieve_questions(transcripts, inverted_index, num_questions, questions, ch
 
         sorted_cosine_similarity = sorted(cosine_similarity.items(), key=operator.itemgetter(1))
         sorted_cosine_similarity = list(reversed(sorted_cosine_similarity))
-        sorted_cosine_similarity = sorted_cosine_similarity[:50]
+        sorted_cosine_similarity = sorted_cosine_similarity[:10]
 
         for pair in sorted_cosine_similarity:
             if pair[0] in question_counts:
@@ -377,10 +399,11 @@ def main():
     inverted_index = {}
     question_ids = []
     questions_file = sys.argv[1]
-    transcript_directory = sys.argv[2]
+    input_directory = sys.argv[2]
 
-    transcripts = read_transcripts(transcript_directory)
+    transcripts = read_transcripts(input_directory)
     transcripts = condense_transcripts(transcripts)
+    #custom_vocabularies = read_custom_vocabularies(input_directory)
 
     questions, choices, answers = read_questions(questions_file)
     choices = clean_choices(choices)
@@ -395,5 +418,6 @@ def main():
     print("\nGenerating Questions For Lecture...")
 
     retrieve_questions(transcripts, inverted_index, num_questions, questions, choices, answers)
+    #retrieve_questions(custom_vocabularies, inverted_index, num_questions, questions, choices, answers)
 
 main()
