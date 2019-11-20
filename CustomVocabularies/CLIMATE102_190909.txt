@@ -1,0 +1,5 @@
+Phrase	IPA	SoundsLike	DisplayAs
+conditions	k ə n d ɪ ʃ ə n z		
+increasing	ɪ n k ɹ i s ɪ ŋ		
+greenhouse		green-house	
+temperature		tem-per-a-ture	

@@ -1,0 +1,7 @@
+Phrase	IPA	SoundsLike	DisplayAs
+isotherms		isotherms	
+station		sta-tion	
+pressure		pres-sure	
+temperature		tem-per-a-ture	
+present	p ɹ ɛ z ə n t		
+weather		weather	

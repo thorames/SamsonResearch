@@ -1,0 +1,26 @@
+Phrase	IPA	SoundsLike	DisplayAs
+highest		high-est	
+westward		west-ward	
+hurricane		hur-ri-cane	
+watches		watches	
+warnings	w ɔ ɹ n ɪ ŋ z		
+expected	ɪ k s p ɛ k t ə d		
+landfall	l æ n d f ɔ l		
+warning	w ɔ ɹ n ɪ ŋ		
+probability	p ɹ ɑ b ə b ɪ l ə t i		
+location		lo-ca-tion	
+factors		fac-tors	
+severity	s ɪ v ɛ ɹ ɪ t i		
+category	k æ t ə ɡ ɔ ɹ i		
+updated		up-dated	
+surface		sur-face	
+temperature		tem-per-a-ture	
+ensemble	ɑ n s ɑ m b ə l		
+atlantic	ə t l æ n t ɪ k		
+cyclone		cy-clone	
+activity	æ k t ɪ v ə t i		
+accumulated		ac-cu-mu-lated	
+density	d ɛ n s ə t i		
+topical	t ɑ p ə k ə l		
+dissipation		dis-si-pa-tion	
+katrina	k æ t ɹ i n ə		

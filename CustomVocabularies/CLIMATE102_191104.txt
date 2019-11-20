@@ -1,0 +1,28 @@
+Phrase	IPA	SoundsLike	DisplayAs
+direction		di-rec-tion	
+thunderstorms		thun-der-storms	
+contain		con-tain	
+convection	k ə n v ɛ k ʃ ə n		
+different		dif-fer-ent	
+development	d ɪ v ɛ l ə p m ə n t		
+moderate		mod-er-ate	
+shooting	ʃ u t ɪ ŋ		
+weather		weather	
+sometimes		some-times	
+laterally		lat-er-ally	
+persist		per-sist	
+produce		pro-duce	
+damaging		dam-ag-ing	
+therefore	ð ɛ ɹ f ɔ ɹ		
+following		fol-low-ing	
+thunderstorm		thun-der-storm	
+episodes		episodes	
+outflow		out-flow	
+developing	d ɪ v ɛ l ə p ɪ ŋ		
+dissipating		dis-si-pat-ing	
+surface		sur-face	
+airflow		air-flow	
+updraft	ʌ p d ɹ æ f t		
+downdraft		down-draft	
+cregeen	k ɹ ɛ ɡ i n		
+tempera		tem-pera	

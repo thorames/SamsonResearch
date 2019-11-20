@@ -1,0 +1,62 @@
+Phrase	IPA	SoundsLike	DisplayAs
+coldest		cold-est	
+temperature		tem-per-a-ture	
+section	s ɛ k ʃ ə n		
+freezing	f ɹ i z ɪ ŋ		
+particles	p ɑ ɹ t ə k ə l z		
+possess	p ə z ɛ s		
+crystalline		crys-talline	
+characteristics		char-ac-ter-is-tics	
+similar		sim-i-lar	
+include	ɪ n k l u d		
+minerals		min-er-als	
+droplets	d ɹ ɑ p l ə t s		
+curvature		cur-va-ture	
+molecule	m ɑ l ə k j u l		
+formation		for-ma-tion	
+without		with-out	
+condensation		con-den-sa-tion	
+nucleus	n u k l i ə s		
+saturation		sat-u-ra-tion	
+pressure		pres-sure	
+greater		greater	
+physically	f ɪ z ɪ k ə l i		
+possible	p ɑ s ə b ə l		
+surface		sur-face	
+collision	k ə l ɪ ʒ ə n		
+coalescence		co-a-les-cence	
+droplet	d ɹ ɑ p l ə t		
+effects	ɪ f ɛ k t s		
+physical	f ɪ z ɪ k ə l		
+processes	p ɹ ɑ s ɛ s ə z		
+relative	ɹ ɛ l ə t ɪ v		
+ingredients	ɪ n ɡ ɹ i d i ə n t s		
+sprinkle	s p ɹ ɪ ŋ k ə l		
+instructions	ɪ n s t ɹ ʌ k ʃ ə n z		
+temperatures		tem-per-a-tures	
+approach		ap-proach	
+continue	k ə n t ɪ n j u		
+raindrop		rain-drop	
+sulfate		sul-fate	
+oxidants	ɑ k s ɪ d ə n t s		
+explain		ex-plain	
+maintain		main-tain	
+humidity	h j u m ɪ d ə t i		
+smaller		smaller	
+concentrations		con-cen-tra-tions	
+centimeter		cen-time-ter	
+polluted	p ə l u t ə d		
+regions		re-gions	
+diameter		di-am-e-ter	
+hygroscopic		hy-gro-scopic	
+particle	p ɑ ɹ t ə k ə l		
+diluted		di-luted	
+attract	ə t ɹ æ k t		
+hydrogen		hy-dro-gen	
+specific	s p ə s ɪ f ɪ k		
+capacity	k ə p æ s ə t i		
+asphalt	æ s f ɔ l t		
+concrete	k ə n k ɹ i t		
+differences		dif-fer-ences	
+saturate		sat-u-rate	
+hottest	h ɑ t ə s t		

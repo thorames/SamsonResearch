@@ -1,0 +1,57 @@
+Phrase	IPA	SoundsLike	DisplayAs
+weather		weather	
+earthquake		earth-quake	
+released	ɹ i l i s t		
+billion	b ɪ l j ə n		
+michigan	m ɪ ʃ ɪ ɡ ə n		
+hottest	h ɑ t ə s t		
+temperature		tem-per-a-ture	
+stadium		sta-dium	
+molecules	m ɑ l ə k j u l z		
+physically	f ɪ z ɪ k ə l i		
+climate		cli-mate	
+atmosphere	æ t m ə s f ɪ ɹ		
+short-term		short-term	
+variation		vari-a-tion	
+minutes	m ɪ n ə t s		
+chaotic		chaotic	
+microscopic		mi-cro-scopic	
+disturbance		dis-tur-bance	
+changes		changes	
+averaged		av-er-aged	
+balance	b æ l ə n s		
+sunlight		sun-light	
+reflects	ɹ ɪ f l ɛ k t s		
+concentration		con-cen-tra-tion	
+greenhouse		green-house	
+sources	s ɔ ɹ s ə z		
+mortality	m ɔ ɹ t æ l ə t i		
+tornado		tor-nado	
+watches		watches	
+average		av-er-age	
+calculating		cal-cu-lat-ing	
+probability	p ɹ ɑ b ə b ɪ l ə t i		
+multiple	m ʌ l t ə p ə l		
+projected		pro-jected	
+temperatures		tem-per-a-tures	
+observed		ob-served	
+colorado		col-orado	
+throwing		throw-ing	
+surface		sur-face	
+precipitation		pre-cip-i-ta-tion	
+relative	ɹ ɛ l ə t ɪ v		
+hurricane		hur-ri-cane	
+getting	ɡ ɛ t ɪ ŋ		
+probably	p ɹ ɑ b ə b l i		
+bangladesh	b æ ŋ l ə d ɛ ʃ		
+following		fol-low-ing	
+million	m ɪ l j ə n		
+possibility	p ɑ s ə b ɪ l ə t i		
+something	s ʌ m θ ɪ ŋ		
+unpleasant	ə n p l ɛ z ə n t		
+greatest		great-est	
+lightning		light-ning	
+thunderstorm		thun-der-storm	
+extreme	ɪ k s t ɹ i m		
+different		dif-fer-ent	
+geographic		ge-o-graphic	

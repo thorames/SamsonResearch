@@ -1,0 +1,41 @@
+Phrase	IPA	SoundsLike	DisplayAs
+absolute	æ b s ə l u t		
+humidity	h j u m ɪ d ə t i		
+specific	s p ə s ɪ f ɪ k		
+holding		hold-ing	
+pressure		pres-sure	
+temperature		tem-per-a-ture	
+outside		out-side	
+moisture		mois-ture	
+atmosphere	æ t m ə s f ɪ ɹ		
+relative	ɹ ɛ l ə t ɪ v		
+midnight		mid-night	
+michigan	m ɪ ʃ ɪ ɡ ə n		
+expressed	ɪ k s p ɹ ɛ s t		
+percent		per-cent	
+actually		ac-tu-ally	
+saturated		sat-u-rated	
+increase	ɪ n k ɹ i s		
+decrease	d i k ɹ i s		
+elative	ɪ l æ t ɪ v		
+clausius	k l ɔ s i ə s		
+expresses	ɪ k s p ɹ ɛ s ə z		
+partial	p ɑ ɹ ʃ ə l		
+molecules	m ɑ l ə k j u l z		
+saturation		sat-u-ra-tion	
+latitude	l æ t ə t u d		
+tempera		tem-pera	
+together		to-gether	
+highest		high-est	
+measured		mea-sured	
+reported	ɹ i p ɔ ɹ t ə d		
+average		av-er-age	
+afternoon		af-ter-noon	
+indicator		in-di-ca-tor	
+content	k ɑ n t ɛ n t		
+indicate		in-di-cate	
+circulation		cir-cu-la-tion	
+condensation		con-den-sa-tion	
+precipitation		pre-cip-i-ta-tion	
+density	d ɛ n s ə t i		
+september		sep-tem-ber	

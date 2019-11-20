@@ -1,0 +1,47 @@
+Phrase	IPA	SoundsLike	DisplayAs
+temperature		tem-per-a-ture	
+seasonality	s i z ə n æ l ɪ t i		
+weather		weather	
+precipitation		pre-cip-i-ta-tion	
+tropical	t ɹ ɑ p ɪ k ə l		
+tropics	t ɹ ɑ p ɪ k s		
+atlantic	ə t l æ n t ɪ k		
+hurricanes		hur-ri-canes	
+seasonal	s i z ə n ə l		
+differences		dif-fer-ences	
+maximum	m æ k s ə m ə m		
+difference		dif-fer-ence	
+segments	s ɛ ɡ m ə n t s		
+society		so-ci-ety	
+examine	ɪ ɡ z æ m ɪ n		
+controversial		con-tro-ver-sial	
+tremendous	t ɹ ə m ɛ n d ə s		
+military	m ɪ l ə t ɛ ɹ i		
+capabilities		ca-pa-bil-i-ties	
+ignored	ɪ ɡ n ɔ ɹ d		
+hurricane		hur-ri-cane	
+typhoon		ty-phoon	
+cyclone		cy-clone	
+explain		ex-plain	
+producing	p ɹ ə d u s ɪ ŋ		
+particles	p ɑ ɹ t ə k ə l z		
+balance	b æ l ə n s		
+surplus		sur-plus	
+transfer		trans-fer	
+latitude	l æ t ə t u d		
+cengage		cen-gage	
+environment		en-vi-ron-ment	
+sublimation		sub-li-ma-tion	
+evaporation		evap-o-ra-tion	
+freezing	f ɹ i z ɪ ŋ		
+condensation		con-den-sa-tion	
+deposition	d ɛ p ə z ɪ ʃ ə n		
+released	ɹ i l i s t		
+crystals	k ɹ ɪ s t ə l z		
+droplets	d ɹ ɑ p l ə t s		
+contact	k ɑ n t æ k t		
+accretion	ə k ɹ i ʃ ə n		
+formation		for-ma-tion	
+seeding	s i d ɪ ŋ		
+atheros		atheros	
+wellness	w ɛ l n ə s		

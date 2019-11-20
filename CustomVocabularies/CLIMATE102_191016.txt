@@ -1,0 +1,16 @@
+Phrase	IPA	SoundsLike	DisplayAs
+direction		di-rec-tion	
+coriolis		cori-o-lis	
+friction	f ɹ ɪ k ʃ ə n		
+without		with-out	
+surface		sur-face	
+equator		equa-tor	
+blowing		blow-ing	
+argentina		ar-gentina	
+wednesday	w ɛ n z d i		
+october		oc-to-ber	
+michigan	m ɪ ʃ ɪ ɡ ə n		
+pressure		pres-sure	
+gradient		gra-di-ent	
+northern		north-ern	
+hemisphere	h ɛ m ɪ s f ɪ ɹ		

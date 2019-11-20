@@ -1,0 +1,23 @@
+Phrase	IPA	SoundsLike	DisplayAs
+mountain		moun-tain	
+adiabatic		adi-a-batic	
+temperature		tem-per-a-ture	
+saturated		sat-u-rated	
+unsaturated		un-sat-u-rated	
+surface		sur-face	
+correct		cor-rect	
+adiabat		adi-a-bat	
+wednesday	w ɛ n z d i		
+october		oc-to-ber	
+environmental		en-vi-ron-men-tal	
+environment		en-vi-ron-ment	
+wellness	w ɛ l n ə s		
+emotionally		emo-tion-ally	
+colorado		col-orado	
+maryland	m ɛ ɹ ə l ə n d		
+temperate	t ɛ m p ɹ ə t		
+pressure		pres-sure	
+condense	k ə n d ɛ n s		
+droplets	d ɹ ɑ p l ə t s		
+evaporate		evap-o-rate	
+lenticular		lentic-u-lar	

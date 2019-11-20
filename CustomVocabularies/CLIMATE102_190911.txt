@@ -1,0 +1,20 @@
+Phrase	IPA	SoundsLike	DisplayAs
+hottest	h ɑ t ə s t		
+michigan	m ɪ ʃ ɪ ɡ ə n		
+stadium		sta-dium	
+autumnal	ɔ t ʌ m n ə l		
+equinox	i k w ə n ɑ k s		
+horizon		hori-zon	
+solstice		sol-stice	
+janeiro		janeiro	
+temperature		tem-per-a-ture	
+effective	ɪ f ɛ k t ɪ v		
+elevation		el-e-va-tion	
+specific	s p ə s ɪ f ɪ k		
+capacity	k ə p æ s ə t i		
+defined		de-fined	
+required		re-quired	
+substance	s ʌ b s t ə n s		
+concrete	k ə n k ɹ i t		
+tempera		tem-pera	
+conners		con-ners	

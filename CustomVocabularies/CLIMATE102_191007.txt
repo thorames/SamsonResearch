@@ -1,0 +1,13 @@
+Phrase	IPA	SoundsLike	DisplayAs
+witnessing	w ɪ t n ə s ɪ ŋ		
+circumference		cir-cum-fer-ence	
+jacksonville		jack-sonville	
+easterly		east-erly	
+melbourne		mel-bourne	
+westerly		west-erly	
+seabreeze	s i b ɹ i z		
+october		oc-to-ber	
+general		gen-eral	
+circulation		cir-cu-la-tion	
+atmosphere	æ t m ə s f ɪ ɹ		
+average		av-er-age	

@@ -1,0 +1,7 @@
+Phrase	IPA	SoundsLike	DisplayAs
+category	k æ t ə ɡ ɔ ɹ i		
+hurricane		hur-ri-cane	
+huricane		huri-cane	
+tropical	t ɹ ɑ p ɪ k ə l		
+latitude	l æ t ə t u d		
+worming		worm-ing	

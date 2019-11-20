@@ -1,0 +1,48 @@
+Phrase	IPA	SoundsLike	DisplayAs
+temperature		tem-per-a-ture	
+direction		di-rec-tion	
+occurrence		oc-cur-rence	
+precipitation		pre-cip-i-ta-tion	
+pressure		pres-sure	
+weather		weather	
+following		fol-low-ing	
+forecast	f ɔ ɹ k æ s t		
+temperatures		tem-per-a-tures	
+freezing	f ɹ i z ɪ ŋ		
+southeasterly		south-east-erly	
+shifting	ʃ ɪ f t ɪ ŋ		
+westerly		west-erly	
+tonight		tonight	
+turning		turn-ing	
+becoming	b ɪ k ʌ m ɪ ŋ		
+possibly	p ɑ s ə b l i		
+changing		chang-ing	
+responsible	ɹ i s p ɑ n s ə b ə l		
+station		sta-tion	
+present	p ɹ ɛ z ə n t		
+occluded	ɑ k l u d ɪ d		
+afternoon		af-ter-noon	
+tomorrow		to-mor-row	
+morning	m ɔ ɹ n ɪ ŋ		
+preferred		pre-ferred	
+clipper		clip-per	
+hatteras		hat-teras	
+colorado		col-orado	
+november		no-vem-ber	
+shipping	ʃ ɪ p ɪ ŋ		
+eighteen		eigh-teen	
+freighters		freighters	
+michigan	m ɪ ʃ ɪ ɡ ə n		
+bradley	b ɹ æ d l i		
+members		mem-bers	
+superior		su-pe-rior	
+univers		univers	
+sciences		sci-ences	
+engineering		en-gi-neer-ing	
+tornadoes		tor-na-does	
+altitude	æ l t ə t u d		
+initial	ɪ n ɪ ʃ ə l		
+occlusion	ə k l u ʒ ə n		
+alberta		al-berta	
+fastest	f æ s t ə s t		
+occlude	ɑ k l u d		

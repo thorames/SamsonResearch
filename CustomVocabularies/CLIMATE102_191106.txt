@@ -1,0 +1,34 @@
+Phrase	IPA	SoundsLike	DisplayAs
+hailstone		hail-stone	
+negatively	n ɛ ɡ ə t ɪ v l i		
+charged		charged	
+crystal	k ɹ ɪ s t ə l		
+lightning		light-ning	
+stepped	s t ɛ p t		
+thunder		thun-der	
+conductors		con-duc-tors	
+discharge		dis-charge	
+grounded		grounded	
+sailing		sail-ing	
+highest		high-est	
+probability	p ɹ ɑ b ə b ɪ l ə t i		
+electricity	ɪ l ɛ k t ɹ ɪ s ə t i		
+expansion	ɪ k s p æ n ʃ ə n		
+electrification		elec-tri-fi-ca-tion	
+graupel	ɡ ɹ ɔ p ə l		
+hailstones		hail-stones	
+crystals	k ɹ ɪ s t ə l z		
+positive	p ɑ z ə t ɪ v		
+america	ə m ɛ ɹ ə k ə		
+supercooled		su-per-cooled	
+negative	n ɛ ɡ ə t ɪ v		
+wednesday	w ɛ n z d i		
+november		no-vem-ber	
+signing		sign-ing	
+climate		cli-mate	
+thunderstorms		thun-der-storms	
+centimeter		cen-time-ter	
+produced	p ɹ ə d u s t		
+attached		at-tached	
+steeples	s t i p ə l z		
+propellers		pro-pel-lers	

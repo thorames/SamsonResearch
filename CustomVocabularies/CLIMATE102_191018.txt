@@ -1,0 +1,42 @@
+Phrase	IPA	SoundsLike	DisplayAs
+boundary		bound-ary	
+october		oc-to-ber	
+characteristics		char-ac-ter-is-tics	
+unstable		un-sta-ble	
+horizontal	h ɔ ɹ ə z ɑ n t ə l		
+development	d ɪ v ɛ l ə p m ə n t		
+american	ə m ɛ ɹ ə k ə n		
+pacific	p ə s ɪ f ɪ k		
+atlantic	ə t l æ n t ɪ k		
+caribbean		car-ib-bean	
+southeast		south-east	
+pineapple		pineap-ple	
+express	ɪ k s p ɹ ɛ s		
+bermuda		bermuda	
+stationary		sta-tion-ary	
+movement	m u v m ə n t		
+alternating		al-ter-nat-ing	
+triangles		tri-an-gles	
+parallel	p ɛ ɹ ə l ɛ l		
+opposite	ɑ p ə z ə t		
+direction		di-rec-tion	
+variable	v ɛ ɹ i ə b ə l		
+weather		weather	
+replaces		re-places	
+vertical		ver-ti-cal	
+thunderstorms		thun-der-storms	
+airmass	ɛ ɹ m æ s		
+modification		mod-i-fi-ca-tion	
+southwest		south-west	
+mexican	m ɛ k s ə k ə n		
+plateau		plateau	
+bergeron		berg-eron	
+character		char-ac-ter	
+america	ə m ɛ ɹ ə k ə		
+northern		north-ern	
+associated		as-so-ci-ated	
+meridional		merid-ional	
+trajectory		tra-jec-tory	
+modified		mod-i-fied	
+surface		sur-face	
+travels	t ɹ æ v ə l z		

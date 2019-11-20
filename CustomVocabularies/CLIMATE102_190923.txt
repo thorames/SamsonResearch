@@ -1,0 +1,173 @@
+Phrase	IPA	SoundsLike	DisplayAs
+watches		watches	
+warnings	w ɔ ɹ n ɪ ŋ z		
+signing		sign-ing	
+definitions	d ɛ f ə n ɪ ʃ ə n z		
+temporal		tem-po-ral	
+variability	v ɛ ɹ i ə b ɪ l ɪ t i		
+workplace		work-place	
+conditions	k ə n d ɪ ʃ ə n z		
+endless	ɛ n d l ə s		
+instance	ɪ n s t ə n s		
+thresholds		thresh-olds	
+advisory		ad-vi-sory	
+excessive	ɪ k s ɛ s ɪ v		
+weather		weather	
+different		dif-fer-ent	
+flavors		fla-vors	
+seasonal	s i z ə n ə l		
+associations		as-so-ci-a-tions	
+metrics	m ɛ t ɹ ɪ k s		
+eastern		east-ern	
+western		west-ern	
+countries	k ʌ n t ɹ i z		
+warning	w ɔ ɹ n ɪ ŋ		
+september		sep-tem-ber	
+spatial		spa-tial	
+sonoran		sono-ran	
+subjects		sub-jects	
+natural		nat-u-ral	
+hazards		haz-ards	
+fatalities	f ə t æ l ə t i z		
+systematic	s ɪ s t ə m æ t ɪ k		
+pressure		pres-sure	
+sinking	s ɪ ŋ k ɪ ŋ		
+inversion		in-ver-sion	
+moisture		mois-ture	
+pollution	p ə l u ʃ ə n		
+temperature		tem-per-a-ture	
+adapting	ə d æ p t ɪ ŋ		
+adaptive	ə d æ p t ɪ v		
+capacity	k ə p æ s ə t i		
+environment		en-vi-ron-ment	
+changing		chang-ing	
+metropolis	m ə t ɹ ɑ p ə l ə s		
+citizens	s ɪ t ə z ə n z		
+animals	æ n ə m ə l z		
+ecosystems		ecosys-tems	
+infrastructure		in-fra-struc-ture	
+planning	p l æ n ɪ ŋ		
+climate		cli-mate	
+reanalysis	ɹ i n æ l ə s ə s		
+recreation		recre-ation	
+detroit		de-troit	
+mississippi	m ɪ s ɪ s ɪ p i		
+emergency		emer-gency	
+declared	d ɪ k l ɛ ɹ d		
+extreme	ɪ k s t ɹ i m		
+consecutive	k ə n s ɛ k j ə t ɪ v		
+inmates		in-mates	
+swelter		swel-ter	
+prisons	p ɹ ɪ z ə n z		
+studies	s t ʌ d i z		
+chicago		chicago	
+humidity	h j u m ɪ d ə t i		
+hospital	h ɑ s p ɪ t ə l		
+admissions	æ d m ɪ ʃ ə n z		
+dewpoint		dew-point	
+resources	ɹ i s ɔ ɹ s ɪ z		
+outreach		out-reach	
+vulnerable		vul-ner-a-ble	
+medical	m ɛ d ə k ə l		
+islands		is-lands	
+counterparts		coun-ter-parts	
+land-use		land-use	
+geographical		ge-o-graph-i-cal	
+problem	p ɹ ɑ b l ə m		
+matters		mat-ters	
+response	ɹ ɪ s p ɑ n s		
+contingency		con-tin-gency	
+protect	p ɹ ə t ɛ k t		
+populous	p ɑ p j ə l ə s		
+suspend	s ə s p ɛ n d		
+utility	j u t ɪ l ə t i		
+systems	s ɪ s t ə m z		
+cooling	k u l ɪ ŋ		
+centers		cen-ters	
+prevent	p ɹ ɪ v ɛ n t		
+hydrant		hy-drant	
+staffing	s t æ f ɪ ŋ		
+increase	ɪ n k ɹ i s		
+checking		check-ing	
+socially		so-cially	
+isolated		iso-lated	
+individuals		in-di-vid-u-als	
+distribution	d ɪ s t ɹ ə b j u ʃ ə n		
+programs		pro-grams	
+reinforce	ɹ i ɪ n f ɔ ɹ s		
+maximum	m æ k s ə m ə m		
+failures		fail-ures	
+epidemiology		epi-demi-ol-ogy	
+illness	ɪ l n ə s		
+statistics	s t ə t ɪ s t ɪ k s		
+trigger		trig-ger	
+administration		ad-min-is-tra-tion	
+consistent	k ə n s ɪ s t ə n t		
+communication		com-mu-ni-ca-tion	
+evaluation		eval-u-a-tion	
+revision	ɹ i v ɪ ʒ ə n		
+tipping	t ɪ p ɪ ŋ		
+permanently		per-ma-nently	
+uninhabitable	ʌ n ɪ n h æ b ə t ə b ə l		
+persistent		per-sis-tent	
+diagnosed		di-ag-nosed	
+precedent	p ɹ ɛ s ɪ d ə n t		
+alcohol	æ l k ə h ɑ l		
+swimming	s w ɪ m ɪ ŋ		
+drought		drought	
+streets	s t ɹ i t s		
+asphalt	æ s f ɔ l t		
+melting	m ɛ l t ɪ ŋ		
+non-lethal		non-lethal	
+violence		vi-o-lence	
+learning		learn-ing	
+ability	ə b ɪ l ə t i		
+agriculture		agri-cul-ture	
+transportation		trans-porta-tion	
+network		net-work	
+ecological		eco-log-i-cal	
+forecasting	f ɔ ɹ k æ s t ɪ ŋ		
+forecast	f ɔ ɹ k æ s t		
+threshold		thresh-old	
+official	ə f ɪ ʃ ə l		
+government		gov-ern-ment	
+forecasts	f ɔ ɹ k æ s t s		
+prediction	p ɹ i d ɪ k ʃ ə n		
+national	n æ ʃ ə n ə l		
+continuous	k ə n t ɪ n j u ə s		
+product	p ɹ ɑ d ə k t		
+long-term		long-term	
+outlook		out-look	
+several	s ɛ v ɹ ə l		
+baseline		base-line	
+recorded	ɹ ə k ɔ ɹ d ə d		
+hottest	h ɑ t ə s t		
+cutbacks	k ʌ t b æ k s		
+vacation		va-ca-tion	
+agricultural		agri-cul-tural	
+southern		south-ern	
+currents		cur-rents	
+reversing		re-vers-ing	
+examination		ex-am-i-na-tion	
+prominent	p ɹ ɑ m ə n ə n t		
+mid-west		mid-west	
+central	s ɛ n t ɹ ə l		
+southeastern		south-east-ern	
+tennessee	t ɛ n ə s i		
+millions	m ɪ l j ə n z		
+threatened	θ ɹ ɛ t ə n d		
+potentially	p ə t ɛ n ʃ ə l i		
+two-thirds		two-thirds	
+saratoga		saratoga	
+saturday		sat-ur-day	
+maryland	m ɛ ɹ ə l ə n d		
+buckles	b ʌ k ə l z		
+dissertation		dis-ser-ta-tion	
+outline		out-line	
+lecturer		lec-turer	
+differently	d ɪ f ɹ ə n t l i		
+postdoc		post-doc	
+vermont		ver-mont	
+extremes	ɪ k s t ɹ i m z		
+relations		re-la-tions	
+monitoring		mon-i-tor-ing	

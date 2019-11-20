@@ -1,0 +1,41 @@
+Phrase	IPA	SoundsLike	DisplayAs
+pressure		pres-sure	
+density	d ɛ n s ə t i		
+proportional	p ɹ ə p ɔ ɹ ʃ ə n ə l		
+temperature		tem-per-a-ture	
+september		sep-tem-ber	
+direction		di-rec-tion	
+blowing		blow-ing	
+heating	h i t ɪ ŋ		
+expansion	ɪ k s p æ n ʃ ə n		
+atmosphere	æ t m ə s f ɪ ɹ		
+gradients		gra-di-ents	
+northern		north-ern	
+hemisphere	h ɛ m ɪ s f ɪ ɹ		
+worming		worm-ing	
+southern		south-ern	
+cooling	k u l ɪ ŋ		
+gradient		gra-di-ent	
+affects	ə f ɛ k t s		
+diverge		di-verge	
+warming	w ɔ ɹ m ɪ ŋ		
+america	ə m ɛ ɹ ə k ə		
+condensation		con-den-sa-tion	
+easterly		east-erly	
+outward		out-ward	
+divergence		di-ver-gence	
+surface		sur-face	
+producing	p ɹ ə d u s ɪ ŋ		
+hottest	h ɑ t ə s t		
+location		lo-ca-tion	
+remains		re-mains	
+carolina		car-olina	
+flowing		flow-ing	
+evaporation		evap-o-ra-tion	
+release	ɹ i l i s		
+increase	ɪ n k ɹ i s		
+atlantic	ə t l æ n t ɪ k		
+hurricane		hur-ri-cane	
+wellness	w ɛ l n ə s		
+emotionally		emo-tion-ally	
+signing		sign-ing	

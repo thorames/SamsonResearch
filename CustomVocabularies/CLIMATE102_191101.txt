@@ -1,0 +1,34 @@
+Phrase	IPA	SoundsLike	DisplayAs
+cooling	k u l ɪ ŋ		
+thunderstorm		thun-der-storm	
+contains		con-tains	
+trillion	t ɹ ɪ l j ə n		
+million	m ɪ l j ə n		
+warming	w ɔ ɹ m ɪ ŋ		
+thunderstorms		thun-der-storms	
+atmosphere	æ t m ə s f ɪ ɹ		
+average		av-er-age	
+convective	k ə n v ɛ k t ɪ v		
+instability	ɪ n s t ə b ɪ l ɪ t i		
+surface		sur-face	
+following		fol-low-ing	
+diameter		di-am-e-ter	
+greater		greater	
+tornado		tor-nado	
+microburst		mi-croburst	
+localized		lo-cal-ized	
+downdraft		down-draft	
+spreads	s p ɹ ɛ d z		
+horizontally	h ɔ ɹ ɪ z ɑ n t ə l i		
+updraft	ʌ p d ɹ æ f t		
+leading	l i d ɪ ŋ		
+outflow		out-flow	
+boundary		bound-ary	
+located		lo-cated	
+heating	h i t ɪ ŋ		
+characteristics		char-ac-ter-is-tics	
+relatively	ɹ ɛ l ə t ɪ v l i		
+intense	ɪ n t ɛ n s		
+precipitation		pre-cip-i-ta-tion	
+lightning		light-ning	
+process	p ɹ ɑ s ɛ s		

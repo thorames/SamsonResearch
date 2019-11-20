@@ -1,0 +1,28 @@
+Phrase	IPA	SoundsLike	DisplayAs
+stabilize		sta-bi-lize	
+atmosphere	æ t m ə s f ɪ ɹ		
+thickening	θ ɪ k ə n ɪ ŋ		
+precipitation		pre-cip-i-ta-tion	
+process	p ɹ ɑ s ɛ s		
+adiabatic		adi-a-batic	
+original		orig-i-nal	
+position	p ə z ɪ ʃ ə n		
+surface		sur-face	
+temperate	t ɛ m p ɹ ə t		
+saturate		sat-u-rate	
+inversion		in-ver-sion	
+temperature		tem-per-a-ture	
+difference		dif-fer-ence	
+tempera		tem-pera	
+unattached		un-at-tached	
+unsaturated		un-sat-u-rated	
+environmental		en-vi-ron-men-tal	
+greater		greater	
+absolutely	æ b s ə l u t l i		
+ovation		ova-tion	
+iverson		iver-son	
+sciatic	ʃ i æ t ɪ k		
+accelerate		ac-cel-er-ate	
+comtrade		com-trade	
+saturated		sat-u-rated	
+environment		en-vi-ron-ment	

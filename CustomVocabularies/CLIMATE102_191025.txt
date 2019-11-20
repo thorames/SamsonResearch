@@ -1,0 +1,33 @@
+Phrase	IPA	SoundsLike	DisplayAs
+highest		high-est	
+cross-section		cross-sec-tion	
+parallel	p ɛ ɹ ə l ɛ l		
+isobars		iso-bars	
+surface		sur-face	
+converging		con-verg-ing	
+diverging		di-verg-ing	
+stronger		stronger	
+temperature		tem-per-a-ture	
+contrasts	k ɑ n t ɹ æ s t s		
+greater		greater	
+stretch		stretch	
+thousands		thou-sands	
+hundred	h ʌ n d ɹ ə d		
+concept	k ɑ n s ɛ p t		
+pressure		pres-sure	
+gradient		gra-di-ent	
+contrast	k ɑ n t ɹ æ s t		
+temperatures		tem-per-a-tures	
+divergence		di-ver-gence	
+frontal	f ɹ ʌ n t ə l		
+october		oc-to-ber	
+thermal		ther-mal	
+circulation		cir-cu-la-tion	
+occlusion	ə k l u ʒ ə n		
+discovered		dis-cov-ered	
+aviators		avi-a-tors	
+pacific	p ə s ɪ f ɪ k		
+current		cur-rent	
+defined		de-fined	
+atmosphere	æ t m ə s f ɪ ɹ		
+upwards		up-wards	

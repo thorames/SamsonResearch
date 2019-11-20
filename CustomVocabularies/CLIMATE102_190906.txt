@@ -1,0 +1,60 @@
+Phrase	IPA	SoundsLike	DisplayAs
+extreme	ɪ k s t ɹ i m		
+weather		weather	
+hurricane		hur-ri-cane	
+stronger		stronger	
+category	k æ t ə ɡ ɔ ɹ i		
+hurricanes		hur-ri-canes	
+european	j ʊ ɹ ə p i ə n		
+relationship		re-la-tion-ship	
+destruction	d ɪ s t ɹ ʌ k ʃ ə n		
+australia		aus-tralia	
+decines	d ɛ s i n z		
+poverty		poverty	
+slowing		slow-ing	
+glacier		glacier	
+extremism	ɛ k s t ɹ ɛ m ɪ z ə m		
+terrorism		ter-ror-ism	
+decrease	d i k ɹ i s		
+colorado		col-orado	
+outbreak		out-break	
+certain		cer-tain	
+growing		grow-ing	
+outbreaks		out-breaks	
+industry	ɪ n d ə s t ɹ i		
+droughts		droughts	
+diseases	d ɪ z i z ə z		
+equality	ɪ k w ɑ l ə t i		
+declines		de-clines	
+glaciers		glaciers	
+catoria	k ə t ɔ ɹ i ə		
+atmospheric	æ t m ə s f ɛ ɹ ɪ k		
+transfer		trans-fer	
+radiation		ra-di-a-tion	
+destructon	d ɪ s t ɹ ʌ k t ə n		
+contain		con-tain	
+convection	k ə n v ɛ k ʃ ə n		
+advection	æ d v ɛ k ʃ ə n		
+transmit	t ɹ æ n z m ɪ t		
+wavelength		wave-length	
+maximum	m æ k s ə m ə m		
+emission	ɪ m ɪ ʃ ə n		
+related		re-lated	
+temperature		tem-per-a-ture	
+boltzmann		boltz-mann	
+describe		de-scribe	
+climate		cli-mate	
+different		dif-fer-ent	
+fahrenheit		fahren-heit	
+relatively	ɹ ɛ l ə t ɪ v l i		
+changes		changes	
+outside		out-side	
+temperate	t ɛ m p ɹ ə t		
+blackbody	b l æ k b ɑ d i		
+hypothetical		hy-po-thet-i-cal	
+capable		ca-pa-ble	
+electromagnetic		elec-tro-mag-netic	
+falling	f ɔ l ɪ ŋ		
+longwave		long-wave	
+wellness	w ɛ l n ə s		
+condition	k ə n d ɪ ʃ ə n		

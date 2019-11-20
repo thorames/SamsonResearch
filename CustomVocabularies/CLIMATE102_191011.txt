@@ -1,0 +1,49 @@
+Phrase	IPA	SoundsLike	DisplayAs
+anomaly	ə n ɑ m ə l i		
+pattern		pat-tern	
+pressure		pres-sure	
+gradient		gra-di-ent	
+proportional	p ɹ ə p ɔ ɹ ʃ ə n ə l		
+friction	f ɹ ɪ k ʃ ə n		
+hemisphere	h ɛ m ɪ s f ɪ ɹ		
+opposite	ɑ p ə z ə t		
+monthly	m ʌ n θ l i		
+departure		de-par-ture	
+oscillation		os-cil-la-tion	
+direction		di-rec-tion	
+morning	m ɔ ɹ n ɪ ŋ		
+southern		south-ern	
+current		cur-rent	
+conditions	k ə n d ɪ ʃ ə n z		
+average		av-er-age	
+coriolis		cori-o-lis	
+souther		souther	
+december		de-cem-ber	
+blowing		blow-ing	
+northern		north-ern	
+fiction	f ɪ k ʃ ə n		
+hagibis	h ə ɡ i b ɪ s		
+tidbits	t ɪ d b ɪ t s		
+situation		sit-u-a-tion	
+equator		equa-tor	
+michigan	m ɪ ʃ ɪ ɡ ə n		
+without		with-out	
+geostrophic		ge-o-strophic	
+apparent	ə p ɛ ɹ ə n t		
+observer		ob-server	
+rotating		ro-tat-ing	
+platform	p l æ t f ɔ ɹ m		
+surface		sur-face	
+constant	k ɑ n s t ə n t		
+isobaric		iso-baric	
+distance	d ɪ s t ə n s		
+contrast	k ɑ n t ɹ æ s t		
+temperatures		tem-per-a-tures	
+eastern		east-ern	
+tropical	t ɹ ɑ p ɪ k ə l		
+pacific	p ə s ɪ f ɪ k		
+roughly	ɹ ʌ f l i		
+atmospheric	æ t m ə s f ɛ ɹ ɪ k		
+see-saw		see-saw	
+affects	ə f ɛ k t s		
+weather		weather	
