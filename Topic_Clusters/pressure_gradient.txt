@@ -1,0 +1,12 @@
+471897b0-2b4a-49e2-a961-8c68541704f2,so if you know which way the line is, can you just draw the wind parallel to it and put an arrow to the right for corelolis and left for pressure gradient?
+6e8df2cc-d512-4212-b72a-ba6114c0ab33,so when there's no "from" and it just says "what direction" that's asking which direction the wind is blowing towards? he said whenever he asks about wind direction he's always asking from what direction but the question about the pressure gradient was different
+f3190306-b9ac-4b5d-ae89-cafccac089c2,is the pressure gradient force always perpendicular to the lines. if so how do you know its from the west and not the east
+43dd1b8b-45c0-4591-b562-b12ffe461e0c,why is the direction of pressure gradient force in omaha to the west in slide 11?
+477c48a4-cda3-4fc3-a40e-dc70afe6e52f,wait so the wind moves perpendicular to the lines on the map, coreolis is to the right, and pressure gradient is to the left?
+ce7bf99b-890f-4885-b578-a4dce524bb23,why couldn't the winds be coming from the high pressure are in canada?
+31f8f139-ebfe-485e-a850-888b153a6c35,do you mind quickly writing out those rules to read these pressures?
+7cbc6f7e-d340-4d68-91c1-9d178627dc55,about the lowest pressure, what about the top right 300 ones? i think we only add 10 in front of 012, what about 3?
+dc65c157-003a-4582-90be-f997f6487ea9,what is the pressure system like near michigan?
+c4bb1bad-91df-48b4-92af-edae2eb77ec1,does wind go the left (perpendicular to the pressure) in southern hemisphere? and thus to the right in the northern hemisphere?
+240b61d3-6de3-498f-9a79-5d0b1d359e14,what is the danger involved in a rapid change in pressure?
+ae58ffe6-0714-4a7d-863a-32bc24e5ffde,so do planes have to take the difference in pressure into account when flying?

@@ -1,0 +1,29 @@
+27c6d25f-2eb6-4a57-b93d-78fc587cb8e1,does the semipermanent pressure lows refer to surface air pressure or air pressure higher up in the atmosphere?
+a4bacad7-b6e1-4e02-b80e-63a0beb50ea8,if there's wind on one side of a mountain, does that mean that side has saturated air? how were we supposed to know that the left side of the mountain had saturated air, but the right side didn't?
+9b66572a-ebd7-4a1a-a0ec-660c401cf94f,what are the differences in air, 200k and air, 1000k?
+3041c7ad-64c8-47ae-b409-88caddb18f9f,what are the factors that affect air pressure?
+da061f1f-8404-498a-bbbd-57387bbaf22e,wouldn't cold air have higher pressure since it can fit more mass in the same volume?
+3408f702-a06f-42d0-a340-496afc3ed8bd,i may be remembering wrong, but i thought that warm air creates a higher volume and flows outwards, causing a decrease in mass/pressure.
+not trying to challenge anything, just confused.
+f05b24ed-9067-402b-9f83-063c4b6fe2b7,what does it mean for an air parcel to be saturated?
+b10d15fa-78ea-4775-adaf-a3bc1fdc0b46,how far did the air molecules travel after 9/11?
+be9720c1-9f21-4c09-b1fe-53a9954189cd,why the increased air conditioning will lead to increase in co2?
+a0275c5a-26b9-4989-a357-8afe90d26a8b,why does the air parcel lose temp and expand as it goes up
+6198f828-8b59-4512-b87b-b545d962f2f1,power of the wind is proportional to the density of the fluid (air or ?) multiplied by what cubed
+5d93a34c-0884-4fc0-9411-e65c794ce434,can air flow north to south or just south to north?
+20aa32ed-b57d-42f0-8403-a9cbd6d0fc07,why is it necessarily the case that once you move down the mountain the air becomes unsaturated?
+1d417acf-214e-4cd6-ba46-7a6b8f68a522,can you figure out mass of h2o from the relative humidity? or do you need to have the volume of air parcel?
+e6bb68f3-f851-4425-97aa-e89478a0ad0b,what is the difference between stable and unstable air?
+cd4e6b5b-6b30-46e4-8949-873e57789ca5,for precipitation fog, if it adds moisture to the air cold enough to create fog near the ground, does that mean that this only happens during the night because the ground is hotter near the surface during the day?
+08678c4f-a4e7-4905-a8ef-9aeba30db0c1,how does cold air moving over warm water add moisture to the air? wouldn't the water molecules slow down in colder temperatures?
+fe5b6e3b-5779-4394-9be8-f1785a32d226,what does it mean for the air to be saturated
+4abbc102-3da2-4553-9ee3-a81b609e0141,why is the air moving counterclockwise if it is in the northern hemisphere?
+8ecefced-7b45-4de9-8334-c4fc63daf05f,what makes the air unstable?
+b413b417-c8c2-4a02-b23c-fa9fad00a927,is there any instance in which air will move from low to high pressure?
+ce7bf99b-890f-4885-b578-a4dce524bb23,why couldn't the winds be coming from the high pressure are in canada?
+31f8f139-ebfe-485e-a850-888b153a6c35,do you mind quickly writing out those rules to read these pressures?
+7cbc6f7e-d340-4d68-91c1-9d178627dc55,about the lowest pressure, what about the top right 300 ones? i think we only add 10 in front of 012, what about 3?
+dc65c157-003a-4582-90be-f997f6487ea9,what is the pressure system like near michigan?
+c4bb1bad-91df-48b4-92af-edae2eb77ec1,does wind go the left (perpendicular to the pressure) in southern hemisphere? and thus to the right in the northern hemisphere?
+240b61d3-6de3-498f-9a79-5d0b1d359e14,what is the danger involved in a rapid change in pressure?
+ae58ffe6-0714-4a7d-863a-32bc24e5ffde,so do planes have to take the difference in pressure into account when flying?

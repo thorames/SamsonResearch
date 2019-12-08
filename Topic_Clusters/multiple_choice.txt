@@ -1,0 +1,5 @@
+01287581-57e6-40f6-8beb-6c606501454d,how do we know what the answers to the multiple choice questions are?
+5b41c345-1680-47ac-9027-1c16da488215,are multiple choice questions here graded on correctness or participation?
+6d0c3e69-b385-4e81-a77f-89cb57adb787,is the exam multiple choice, short answer, or something else?
+9844586e-ac84-4cce-8b04-8e46b3134e63,what is the format of the exam? (all multiple choice, short answer, etc.) also about how many questions should we expect?
+105c54fb-3fc7-48c2-83ed-58ae08ae6e13,why is the multiple 100 for #3?

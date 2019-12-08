@@ -1,0 +1,12 @@
+289cd3a5-1534-4679-a189-7e10e702d20c,you said, "to get the relative humidity, divide the current vapor pressure by the saturation vapor pressure and express the answer as a percentage." if the dew point tells us the saturation vapor pressure, though, it seems we are using this equation: relative humidity = saturation vapor pressure/vapor pressure, not the other way around. for example, when the dew point is 7º, the saturated vapor pressure is 10mb, and at 24º, the vapor pressure is 30mb. we do 10/30 right, not 30/10?
+06f01d59-ccc6-4293-8df5-0cdbff1c4ad3,so we divide the water vapor content by the water vapor capacity (dew point) then multiply that number by 100%?
+4fdc54ec-d9c0-46bf-a48b-1333933c0412,why does evaporating fresh vs salt water mean co2 no longer increases
+5c18874c-40d9-4fd9-93bc-76f64119c6d2,why is it fresh water that is being deposited after the  glaciers
+d51c6984-4cf1-4eff-960f-9c789320e0f7,what do the deep water formations have to do with ocean temp?
+8c58ed77-b097-4843-9c9e-1fdfde028c3d,‘water vapor is the most abundant green house gas in the air’ - is this correct?
+2bc29ff9-2a5e-4e7b-b895-30aaa15b7d43,how is the water get so condensed inside the thunderstorm that creates hot towers?
+e1012164-3a86-4679-a865-21542b59f349,what is it about nitrogen that makes it water insoluble?
+9124abe5-286b-47b4-aa25-d7d7a3da4a81,did the condensation of water lead to the formation of nitrogen in our atmosphere?
+a12ce9bf-3961-4f98-93d2-1c857559bfc2,why does a water droplet need to remain saturated?
+a8994ab2-0a37-4a0c-a41d-73fa4019ac69,to form steam fog the water needs to be warm correct?
+f7d71a24-78da-4adc-8684-488a25b58737,can you re-explain, briefly, how we know the answer? how do we know the vapor pressure?

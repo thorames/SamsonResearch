@@ -1,0 +1,8 @@
+4923bae2-41b6-490e-acf3-e755ec125919,i downloaded adobe and i still can't get the live stream or sound. it's just a blank gray screen and it doesn't prompt me to download adobe so i think adobe is working... but is anyone else having this problem? no image as well as no sound?
+0db3c923-9495-462f-b155-3b27ca4377dc,does anyone know how to fix the bug where the live screen says "ctrl+click to run adobe flash" even though flash is enabled? (mac)
+47993c87-10ea-4fb4-bd39-f8a2dddeacf5,why does it keep saying "adobe flash player 9.0 or above is required to view this content" when i have the newest version
+3e0edf70-93eb-4c16-943d-00a6cba1f9bc,i downloaded adobe flash player but the same message telling me to download it keeps popping up when i try to play the livestream. what should i do?
+95e5f6e8-aa7a-4cf0-9df6-a14e24ec57e9,it says that i dont have adobe flash player but i just downloaded it
+4091b25f-fbd3-49fb-981f-73c7d35f2940,how do you install adobe flash? it won't let me click on it in the slide and the livestream won't work without it.
+79b899dc-6cc0-4443-99a6-00d373abb23b,anyone know how to install adobe flash?
+8f4c48ea-a8f0-408c-88bc-cecd7d8b5a8d,do you still get participation points if you take the course after class time? it says it requires adobe flash player 9.0 for the live stream and i am not able to download it.

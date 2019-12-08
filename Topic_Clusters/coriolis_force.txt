@@ -1,0 +1,8 @@
+0eff3d95-c480-45df-bc0f-5dce0b4e3c36,why does the coriolis force always act opposite to the pressure gradient force?
+95be5ac6-2f3c-40ec-94dd-7d66c48e3b83,how much can coriolis force change the direction of wind, 45 degrees? 90 degrees?
+da270917-8e92-4722-b5fd-ce39f98c29de,is friction opposite to wind or coriolis force
+a5cec501-14f5-4118-8759-01e24c09619c,does the coriolis force influence any activity at the equator?
+5c31334d-aa3a-42b9-b6a2-6333c779df76,wouldn't coriolis force turn winds left in africa??
+bd65ab50-272a-4cb1-9f74-f9519cf50c23,do coriolis force and wind blow in same direction?
+f517bb66-424d-488d-869d-19619f0f062e,what are the other forces affected by upper atmosphere other than wind?
+74e28c2b-3775-45bf-bed7-ff74bf49b718,would there be friction force over the ocean? i'd imagine there wouldn't be anything to stop the wind except maybe waves.

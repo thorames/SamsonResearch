@@ -1,0 +1,3 @@
+a66f476b-a6da-48a5-a543-5413e6dccb0f,is the lapse rate negative when there is an inversion?
+4f10d2aa-1ae7-43f0-889e-38c6ae6127db,why is the answer +8 if if the lapse rate is supposed to be how the temperature drops with altitude?
+ccdb4a52-0eb6-41e6-ab0b-3ac3f494ef14,why is the temp. difference by 5 degrees if the abiatic rate is by 6 degrees?
