@@ -273,8 +273,15 @@ def tfidf_transcript(transcript_tokens, inverted_index, num_questions):
 
     return transcript_vector
 
-def retrieve_questions(transcripts, inverted_index, num_questions, questions, choices, answers):
+def retrieve_questions(transcripts, class_name, inverted_index, num_questions, questions, choices, answers):
     question_counts = {}
+
+    if not os.path.exists("Lecture_Questions"):
+        os.mkdir("Lecture_Questions")
+    else:
+        filelist = [file for file in os.listdir("Lecture_Questions") if file.endswith(".json")]
+        for file in filelist:
+            os.remove(os.path.join("Lecture_Questions", file))
 
     for key, value in transcripts.items():
         weighted_questions = {}
@@ -341,9 +348,55 @@ def retrieve_questions(transcripts, inverted_index, num_questions, questions, ch
 
         counts_file.close()
 
-        output_questions(key, sorted_cosine_similarity, questions, choices, answers)
+        new_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers)
+        #old_output_questions(key, sorted_cosine_similarity, questions, choices, answers)
 
-def output_questions(key, sorted_cosine_similarity, questions, choices, answers):
+def new_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers):
+    json_output = {}
+
+    json_output["TableName"] = "VirtualGSI_QA"
+    json_output["Item"] = {}
+
+    json_output["Item"]["CourseID"] = {}
+    json_output["Item"]["CourseID"]["S"] = class_name
+
+    now = datetime.now()
+    json_output["Item"]["Date"] = {}
+    json_output["Item"]["Date"]["S"] = now.strftime("%Y-%m-%d")
+
+    json_output["Item"]["listOfQuestions"] = {}
+    json_output["Item"]["listOfQuestions"]["L"] = []
+
+    for i in range(len(sorted_cosine_similarity)):
+        question = {}
+        question["M"] = {}
+
+        question["M"]["QuestionID"] = {}
+        question["M"]["QuestionID"]["S"] = sorted_cosine_similarity[i][0]
+
+        question["M"]["Question"] = {}
+        question["M"]["Question"]["S"] = questions[sorted_cosine_similarity[i][0]]
+
+        question["M"]["Answer"] = {}
+        if len(answers[sorted_cosine_similarity[i][0]]):
+            question["M"]["Answer"]["S"] = answers[sorted_cosine_similarity[i][0]]
+        else:
+            question["M"]["Answer"]["S"] = "(NO ANSWER PROVIDED)"
+
+        question["M"]["Choices"] = {}
+        question["M"]["Choices"]["L"] = []
+        if len(choices[sorted_cosine_similarity[i][0]]):
+            for j in range(len(choices[sorted_cosine_similarity[i][0]])):
+                choice = {}
+                choice["S"] = choices[sorted_cosine_similarity[i][0]][j]
+                question["M"]["Choices"]["L"].append(choice)
+
+        json_output["Item"]["listOfQuestions"]["L"].append(question)
+
+    with open("Lecture_Questions/" + str(key) + "_questions.json", 'w') as outfile:
+        json.dump(json_output, outfile)
+
+def old_output_questions(key, sorted_cosine_similarity, questions, choices, answers):
     json_output = {}
     json_output["assignmentTitle"] = key
 
@@ -389,9 +442,6 @@ def output_questions(key, sorted_cosine_similarity, questions, choices, answers)
 
         json_output["questions"].append(question)
 
-    if not os.path.exists("Lecture_Questions"):
-        os.mkdir("Lecture_Questions")
-
     with open("Lecture_Questions/" + str(key) + "_questions.json", 'w') as outfile:
         json.dump(json_output, outfile)
 
@@ -400,6 +450,7 @@ def main():
     question_ids = []
     questions_file = sys.argv[1]
     input_directory = sys.argv[2]
+    class_name = questions_file.split("_")[0]
 
     transcripts = read_transcripts(input_directory)
     transcripts = condense_transcripts(transcripts)
@@ -417,7 +468,7 @@ def main():
 
     print("\nGenerating Questions For Lecture...")
 
-    retrieve_questions(transcripts, inverted_index, num_questions, questions, choices, answers)
-    #retrieve_questions(custom_vocabularies, inverted_index, num_questions, questions, choices, answers)
+    retrieve_questions(transcripts, class_name, inverted_index, num_questions, questions, choices, answers)
+    #retrieve_questions(custom_vocabularies, class_name, inverted_index, num_questions, questions, choices, answers)
 
 main()
