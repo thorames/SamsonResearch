@@ -1,0 +1,25 @@
+5725bb52-da3b-4f7b-ac51-989c7e4ceee9,Warm, muggy air is near the ground and cold, dry air is aloft. The inversion traps the warm air. When this air is lifted, due to the different adiabatic lapse rates, the air becomes even less stable
+279b655a-cf88-49fe-ab7a-dddbbdf5943f,When there is warm, saturated air on the surface and cooler, unsaturated air above, the warm air will be stable but the cooler upper air will make it unstable due to their different lapse rates.
+33779bbe-9818-49ee-8720-c2725bbd8c10,Convective instability occurs when contrasting air masses are in close proximity -- for example, when warm air rises.
+64146aaa-a59e-4d4e-abac-97bea896cfef,Conditions that lead to convective instability are warm surface level air and cold upper tropospheric air.
+b81f96f9-83cf-4ce2-a4d9-169d23a736af,The air above becomes too unsaturated because there is warm air at the bottom and cool air above.
+a89d25b7-9fe5-4eb5-9a7c-d3c03a97df96,A strong vertical wind shear and a warm surface air with cool air aloft.
+be6d1cba-6d40-4084-ba73-e59739ba2cd2,Warm surface air; cold air aloft; lifting a parcel of air.
+263905ea-04ab-4714-a924-7d6c58e9f52a,warm air near the ground cold air in the upper atmosphere
+41438f06-e921-4756-bacc-edc10a1d1ba1,Rising warm air layer makes atmosphere more unstable.
+6c3263ca-b475-46f1-bf0f-712c9349ca1e,Warm air below cool air makes convective instability
+3fb378ba-a9f0-4c43-a3a4-45a19e94eb75,when the Lower air is colder than the warm air aloft
+d8579425-f69a-430c-b0eb-24c16468c41f,warm air mixes with the cold air aloft\n
+a02919cf-e157-45ce-a604-5402c7ef248d,Warm air rising and cold air descending
+1de6f2c2-13e9-4fd8-9a0c-d1b72f4aaa71,Warm air from above and cold air below
+06fee6ed-a7d9-40ae-af1d-baaba0610934,near the ground, there has to warm air.
+fe339a57-c474-4651-90fc-30cbe0296e91,Warm surface air with cooler air aloft
+992066b6-e35f-48d6-9e0b-70d589bc572c,warm air near surface, cold air above
+1d77ce26-8ae5-46af-a29d-60fa84b28ce5,warm air at surface cool air aloft
+7296acf8-cf47-43ec-a9e8-6fd59a736ac6,warm surface air cool air above
+c7ee9792-12cb-4be8-82d7-c9e310c80606,Very warm or cool temperatures
+fab0d394-3228-4737-8189-5a9d738cf19d,severe storms, ground warming
+efcf2000-4f7c-4c81-beb4-f9654956792c,Warm air cold air
+9b614b4c-d7e6-456c-a0d2-2124c5b3b1e3,A lot of warm air
+e4eeff10-7d87-4aa3-88d3-bec4b8bf1583,warm front, rain
+8bf703e4-cfba-4e5f-94fc-b73aa4919b5a,humid and warm

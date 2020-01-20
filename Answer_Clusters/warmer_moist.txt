@@ -1,0 +1,3 @@
+d3548a08-08e8-4912-a551-47ebaf24be63,This is when temperatures at the surface are much warmer than at high altitudes.
+2bf7164e-72ab-446b-85db-31ea059a38bb,When the ground is warmer than the air above it
+35c51738-385b-49a0-bf25-efdac9958afc,Air that is warmer at the bottom.

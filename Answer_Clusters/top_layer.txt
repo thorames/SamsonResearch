@@ -1,0 +1,28 @@
+4153fe71-ad4a-4ef0-8c73-e1c1073916c1,Convective instability occurs when a layer of air rises. When it rises, it becomes less stable as the difference between the top and bottom of the layer increases. Because of this change, the top of the layer will cool by the dry adiabatic rate, whereas the bottom will cool at the moist adiabatic rate. Thus, the layer is unsaturated at its top and saturated near its bottom, becoming convectively unstable.
+6baa13e4-2991-4088-b437-9b242fbbe3e9,A layer of air that is warm and humid at the surface and dry, cool air that is above it (~ 900 mb) begins to rise and cool. The bottom of the layer cools at the moist adiabatic rate and the top cools at the dry adiabatic rate thus causing a very steep environmental lapse rate between the bottom and the top of the layer causing instability
+05be77b8-6aa5-4200-b328-f7212b1d687c,When the bottom of a layer is saturated and the top of the layer is unsaturated, and we lift the layer of air up into the atmosphere, the bottom of the layer will cool at the moist adiabatic lapse rate, but the top of the layer will cool at the dry adiabatic lapse rate. This produces a convectively unstable layer in the atmosphere.
+7029cb2c-0e2e-4831-9d16-ea0c44e73e94,Having a warm muggy atmosphere on the ground level and a dry atmosphere on top of that will result in convective instability. The bottom of the layer will rise at the moist adiabatic rate and the top will rise at the dry abiotic rate. It becomes very steep which is very unstable. This then causes the supercell thunderstorms
+2e28e508-509a-42d8-bd20-ab080428ce5f,Saturated warm air at the surface and cool dry air on top of it. Top of the layer cools at the dry adiabatic rate while the bottom of the layer cools at the moist adiabatic rate. Leads to a bigger and bigger difference the higher up in the atmosphere you go.
+1bf81583-9038-423b-a72f-eb4d4af433fb,Convective instability is instability caused by the lifting of an air layer. The top of the layer rises farther than the bottom of the layer, getting colder and changing the layer from isothermically stable to convectively unstable.
+8d893e34-3048-415a-b88a-d3c959d1516c,Convective instability is caused when the layer at the top is unsaturated and the layer at the bottom is nearly saturated. This causes an inversion and then the lapse rates become steeper and more unstable.
+7f0a2b08-91f6-4c63-8071-190e0672b880,The top layer has to go further than the bottom. Nature of the atmosphere. If you lift any layer, it'll become less stable. A layer unsaturated at it top and saturated near its bottom causes temp. change
+a675c3c6-6c2a-4c2f-b8ed-96fa6a356f47,When there is warm moist air underneath and cool dry air above and the two layers are lifted together. The different layers change at different rates that lead it to be convectively unstable.
+e3c36c1e-63c6-4953-ac3e-f92007296b4f,When a layer is unsaturated near its top and saturated near the bottom, causing an inversion. This is due to the difference in the dry and moist adiabatic lapse rates.
+ba05fa31-38b1-4c44-affd-a683a453b02e,when the layer above is colder than the layer of air at the surface - this type of thing leads to the creation of severe thunderstorms
+684f48e4-2b24-4d0e-a8ec-bf3200c2e559,the conditions that lead to connective instability is when a layer of saturated air is on top and unsaturated on the bottom
+64648a23-f9bd-4cd8-8be3-9ae572d356ea,a layer that is unsaturated at its top but is saturated at its bottom will lead to it becoming convectively unstable
+611900d9-0ac6-4a8e-811d-2a5ca4a95542,when a layer of the air is unsaturated at its top and saturated near its bottom it is convectively unstable.
+3d8553f2-fcf7-49a8-8cb0-e300b23f9ca3,Layers of air that pile on top of each other but eventually meet due to different cooling rates.
+0cf7b6ba-df7f-4158-943c-3938cb7d93f8,essentially, as we lift air, the bottom layer does not need to go as far as the top layer
+a635ada3-6c23-4880-8ff3-da3fc54dad4e,A layer unsaturated at its top and saturated near its bottom is convectively unstable
+9d1a0819-122d-4681-a674-2daadd42fc44,A layer unsaturated at its bottom and saturated near its top is convectively unstable
+9975dcfc-24fd-4bd7-83b4-d0f29605e2d0,A layer unsaturated at its top and saturated near its bottom is convectively unstable.
+c441aecf-cabb-4938-a970-f977efe5ea95,top layer is unsaturated, bottom is saturated... causing a temperature change
+06ecbdc7-b690-4f5a-8045-cbcad746114a,Lifted layer that is saturated at the bottom and unsaturated at the top.
+954bf565-cf3f-4afe-8c82-58beece9b4fc,A layer of air unsaturated at its top and saturated near its bottom.
+79d18a6a-67c8-45d6-96b7-e89f44b6351f,a layer of air is unsaturated at the top and saturated at the bottom
+d833d418-4f8c-4dca-b248-930655a831ec,When the top layer is unsaturated but its bottom layer is saturated
+f2478543-a97c-477f-947b-7c7857cd5a25,when a layer is undsturated at the top and saturated at the bottom
+64b6b36b-b72a-4634-a5f5-1d1845c71f1d,A layer unstaurated at its top and saturated at the bottom
+8b7a1082-7ac3-4811-aebf-37a44dd0551c,unsat top sat bottim
+76c773cc-05b2-4670-b345-c769d21fce9c,moist air on top

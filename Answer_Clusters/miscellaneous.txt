@@ -1,0 +1,26 @@
+a8362dd6-2f35-4a67-b56e-9aa7f71ae3b0,temperature changes more than 10 degrees everh kilomrter.
+5312dbdb-c931-4964-8bdb-d4d9b3e60bef,Convergence of molecules, temperature,wind, humidity
+1ce8063f-bf29-4bac-a04d-a689698a778a,uneven heating and rapidly changing temperature
+730567ff-1867-482c-aafe-09cd42f1841d,Uneven heating in the sky and on the ground
+bb8cbd9c-29d5-423f-b447-1907cd8f2972,an inversion of temperature in the atm
+8adc4e01-6079-427f-98c1-e36a577588cf,mixing temperatures and moisture
+9775eebc-c089-42c3-a700-6d9d540564ba,the wind shear is very extreme.
+ab634771-cac6-47d8-983b-5529d3b67116,A temperature inversion
+0a98c0c5-1b88-46b7-816e-7ca9178aa2da,Supercell Thunderstorms
+641ddbe8-fe1f-4dfa-9d2f-12d6ca4b5615,strong winds and heat
+f761450b-ce59-4db5-937a-90e5201334f4,differing temperatures
+ffa1cb1f-5c28-45aa-ba16-ea563450520a,uneven heating\n
+962ce213-7df5-4ec6-82e0-6156944d59cb,coriolis force
+ac675569-8aab-4753-b486-aa593c804c95,Strongs winds
+aa76696c-1fb3-4f0b-88f9-6d43ab02d082,I'm not sure
+c010b0e9-cefd-46d3-ab36-2edfe04e4959,Wind flows
+246f0809-e995-494c-bacc-58dc2d2dc843,wind speed
+0cc95448-e804-483f-bf36-b450e6d1d1c2,wind shear
+84cbaa33-40d2-4692-9c17-e7185f90de80,No idea..
+5656ddab-dcf7-4e07-b28e-0a3cdc5cd140,downdraf
+06adea41-4932-4f7a-8bf3-ebae90d03bfa,idk
+cf17602a-526d-459b-b75c-f719aa9ad93e,n/a
+06adea41-4932-4f7a-8bf3-ebae90d03bfa,idk
+06adea41-4932-4f7a-8bf3-ebae90d03bfa,idk
+797d56af-9e00-424e-928e-a4821143ac02,ss
+74993c67-476a-4c0c-9c83-b03b9dffdb02,a

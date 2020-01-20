@@ -1,0 +1,13 @@
+13d563af-09d8-4aec-9dbf-d7cb3294cf39,As the temperature decreases, the pressure increases, but near the surface the pressure and temperature reaction is inverted, creating a difference between dry and moist rates
+933a885e-38ee-43a1-b55a-e2431d505c7f,It means that the atmosphere is convectively unstable because of the high to low pressure gradient\n
+a32b4289-3fe3-4df9-a55c-72ec6c0e71bc,high pressure and low pressure systems coming together and pushing against one another\n
+91a2af39-b192-4d18-8d60-46348f9a9c93,It exists when the mid-levels of the atmosphere are fairly dry and high dewpoints
+dd81989d-5648-49cf-aafa-85945c237478,It exists when the mid-levels of the atmosphere are fairly dry and high dewpoints
+c291ac5c-f46f-4bb6-aa4d-5a776670b898,two different pressures, opposite wind directions, temperature differences
+bb1a2a19-fc1d-40e9-8b35-8460199122fa,very moist air and a mix of high and low temperatures\n
+4072aeb0-3eea-487b-b221-d8a236b8b857,When the troposphere is dry and dewpoints are high
+d3bda0fb-95c2-4f74-aa1c-41522b16535d,high heat, strong winds. mixing of clouds
+6eaca3b3-e58f-4577-ad6b-71365e9ff0e6,swift changes in air pressure
+52d9b290-2fe2-4b55-9b1b-71e5f7a1e90e,Warm and high pressure.
+399b07bb-e1a5-41d1-9ff8-b39e4efcb3a2,high and low pressure
+de5f8f2a-858a-436a-bc41-769c444d3b87,pressure gradient

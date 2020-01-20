@@ -1,0 +1,8 @@
+85992cdf-00be-4c7b-90d4-d117d6f1f304,the fact that air will rise at different rates from the top of a parcel of air than the bottom due to the fact that the atmosphere expands above means that raising any parcel of air will make it less stable. we add in the fact that inversions and other factors during convection make it even less stable
+7dfe3609-4994-4de1-b93b-60b8a604df76,When an air parcel has the conditions so that when lifted, it becomes more unstable. It can be saturated at the bottom and unsaturated at the top, causing it to be unstable when lifted.
+fed8b6fb-1c57-4d2e-8bbb-9f356fc4e682,a parcel of air that is vertically buoyant, where the air becomes more unstable as it rises, and cools at different adiabatic rates
+2ffbe02c-01de-426d-97f8-4448a6b13a89,Vertically integrated positive buoyancy of a rising parcel; parcel's ability to resist vertical motion.\n
+1d0578d3-78b4-493d-82c3-632ca970622b,The top of the air parcel is unsaturated while the bottom is saturated
+f1ca7f15-e550-40a0-b7a4-0233aed2a460,something to do with air parcels
+2489e897-7955-4296-bbfd-50ecd57f9ec6,rising a cold air parcel
+ad98ef67-2fa0-4552-8887-4610bafbc0c1,rising air parcel

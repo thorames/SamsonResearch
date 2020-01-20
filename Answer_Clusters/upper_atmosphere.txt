@@ -1,0 +1,20 @@
+fc3a4696-3509-4a9b-934d-4ce322beb6d8,unsaturated in the upper atmosphere (top) rises at DALR and saturated near the surface (bottom) rises at MALR creating a steeper temp inversion
+cecb010f-bd4e-4849-a214-573b05ad71b6,having a saturated base and unsaturated upper atmosphere. The air cools at the moist, then dry adiabatic rate making it convectively instable
+30afed32-2fea-4f61-a5bc-2dd742e27bdb,the atmosphere is convectively unstable when there are two zones in the atmosphere that vary in temperature that are very close together
+7801e40c-111e-423a-9a83-feaf410250b4,The conditions that lead to convective instability are when there is cooler air in the upper atmosphere and warmer air at the surface.
+86469f46-c700-4086-a334-672479f128d3,Instability in the upper atmosphere do to heating of the earth/ lower atmostphere while the u\\air aloft is cold
+3d9cf3ef-633e-4722-9af1-86bfefb966a9,Different wind direction for surface and upper atmosphere as well as different temperatures and moisture levels
+302fc6ad-0108-43a7-bc7b-cd9dd5fbf8e9,Rapid temperature change and lower temperatures higher in the atmosphere. Also strong winds?
+5bd84ec0-14fd-468f-ae79-8fef83309f8e,The unperfect system of the atmosphere means convection isn't going to work perfectly.
+7777ab3b-a3a8-4ea3-9b31-e5980d357c94,The air is not saturated leading to a temperature inversion in the lower atmosphere
+6c642e82-4777-4d80-96ef-88a10a0b2e0a,Cold air falling in the upper atmosphere, warm air rising in the lower atmosphere
+14b2dee5-8bad-4afe-b4b5-2cfde686143e,the heating on the ground and the cooling of air in the upper atmosphere
+7a978015-3722-4973-b6ea-38d1d4093a62,A warm moist lower atmosphere temp and a cold dry upper atmosphere temp
+2cca5e29-e390-4f1a-bdfb-31f22a41921e,The pressure gradient, temperature gradient at levels in the atmosphere
+65a4315a-4d44-4548-a608-307be1c957da,The ground being a different temperature than the upper atmosphere.
+c88656e0-f267-489d-bbb2-128e5cc28109,Different levels of the atmosphere are saturated and some are not
+c9f2760c-ceac-4185-93f6-742bcce532b4,different air pressures at different heights in the atmosphere
+bcd88046-80a7-49b8-8de7-b78144c3782f,High temperature gradiant between upper and lower atmosphere
+e10ac288-9f4a-48d6-abad-0225f6220139,temperature and dampness differences in the atmosphere
+1b373e73-7b89-4d81-a63d-1246a529bbbd,Atmospheric instability and converging winds
+60e5e7fd-e8db-4c59-9b5b-a14553a81f78,unstable atmosphere

@@ -1,0 +1,4 @@
+c7ee9792-12cb-4be8-82d7-c9e310c80606,Very warm or cool temperatures
+fab0d394-3228-4737-8189-5a9d738cf19d,severe storms, ground warming
+e4eeff10-7d87-4aa3-88d3-bec4b8bf1583,warm front, rain
+8bf703e4-cfba-4e5f-94fc-b73aa4919b5a,humid and warm

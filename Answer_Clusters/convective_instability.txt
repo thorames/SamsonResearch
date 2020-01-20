@@ -1,0 +1,24 @@
+c4051ab0-ad17-4905-9d0f-aa1ff8cdad97,Isothermal or inverted conditions lead to convective instability because the air at the bottom of a column is cooling at a different rate than air at the top, so there is instability.
+721928ed-8ca7-4b74-a20d-643cf8a4d4b4,a layer of air that is lifted leads to convective instability. also, air that is warm on the bottom and cooler on top will cause inversion and this causes convective instability.
+5926af12-30fe-473e-8999-ddbb8df69f9c,The conditions that lead to "convective instability" has something to do with the mosist and dry adaiabtic lapse rate and inversion, I don't know the specifics. The rise of air.
+0b069a8e-5d9f-41f6-9ba3-ff8047779030,The condition in which we start lifting the air. So, this relates to CAPE. Once we start lifting the air, conditions become unstable, and we have convective instability.
+62c266d1-a538-4218-9c62-5d5a4b1bfcd5,the convection patterns of the airflow are uneven and pressure is being pushed more to one side than the other instead of a perfectly even/round cycle
+cecb010f-bd4e-4849-a214-573b05ad71b6,having a saturated base and unsaturated upper atmosphere. The air cools at the moist, then dry adiabatic rate making it convectively instable
+7801e40c-111e-423a-9a83-feaf410250b4,The conditions that lead to convective instability are when there is cooler air in the upper atmosphere and warmer air at the surface.
+48426dcd-699f-4982-87d0-7b7f458b22a7,The air pressure from below mixes with several other factors to combine to create convective instability. ALso inversion of time
+b8beeac8-10a7-4391-a57b-29ec19089119,Convective instability is the ability of the air mass to resist vertical motion. A stable atmosphere promotes these conditions.
+b5b92695-1f0b-4543-9636-35b425721c59,The conditions of absolute instability at longer than Just the peak and the conditions vary at cloud formation
+ba746025-ff8c-4fe2-9e81-d8624ff5e681,convective instability is caused by the top and bottom of an air parcel cooling at different lapse rates
+46db419d-8b5b-4715-9e9a-cadd3a1ecae2,Convective instability exists when the mid-levels of the atmosphere are fairly dry and high dew points
+abf546b8-759b-4381-9480-d6635c552731,convective instability is caused by a layer unsaturated at its top and saturated at its bottom
+b0173460-cfe1-40d2-9692-a50b267430d2,Convective instability is caused by rapidly moving wind transferring heat at an unstable rate.
+e37a2884-2834-446e-8e05-3d6467f3087b,When winds are light, dust devils can develop on dry days within a region of instability.
+5bd84ec0-14fd-468f-ae79-8fef83309f8e,The unperfect system of the atmosphere means convection isn't going to work perfectly.
+511a5e2e-383d-4288-91a3-3c97117e0597,Convective instability occurs when the air is cooler aloft than at the surface.
+813642ea-1fe8-4304-bc69-d01346b57d48,Saturation lower and unsaturation higher up leads to convective instability
+1bf4cb7c-b36e-40b7-9309-4b3f64b0f63f,Convective instability is caused by the amount of degrees a layer cools by
+e0d75ae1-b2f8-4658-a0ec-965405f9a52c,mixture of dry adiabatic and moist rates leads to convective instability
+2f0f68a6-43ef-46b9-98e6-cb2d53665378,When the moist and dry layers meet, it initiates instability
+ac4e74dc-71ef-4305-9467-907b8d25349c,When the convection of air lead to atmospheric instability
+1b373e73-7b89-4d81-a63d-1246a529bbbd,Atmospheric instability and converging winds
+0207f59d-76b0-44ee-b158-cc87b4b0e434,convective instability means

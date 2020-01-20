@@ -1,0 +1,8 @@
+4df128b5-0d20-454a-9aab-5aa856cd75b0,Convective instability occurs when a parcel of air is saturated near its bottom, but not near its top. When it is lifted by some force, the bottom will cool at the moist adiabatic lapse rate, while the top will cool at the dry adiabatic lapse rate, which will inevitably lead the two pieces to meet.
+c94869c0-4037-4889-94c3-1d88656834e9,A layer of air that is unsaturated at the top and saturated at the bottom is convectively unstable. This happens when air is cooling at the dry adiabatic lapse rate at the top and the moist adiabatic lapse rate at the bottom.
+8f7d99c3-d491-4c1b-bc22-a3d7e8ccd0ca,When the moist adiabatic lapse rate is less than the bottom of the layer of air, and the dry adiabatic lapse rate is greater than the top of the layer of air, and the air is lifted, convective instability occurs.
+2574d499-8506-4447-a5a9-544dfb5b63b2,Convective instability arises when the moist adiabatic lapse rate and the dry adiabatic lapse rate don't match. This is due to saturation of the bottom and unsaturation of the top
+75ca88f8-0959-4f4f-8118-f92600e294e6,The dry adiabatic lapse rate is faster than the moist adiabatic lapse rate and this leads to the layers of the atmosphere switching and becoming unstable.
+fde89141-554b-48ad-980b-9193adb15ccd,dry adiabatic lapse rate is greater than the moist adiabatic lapse rate until a certain level of pressure
+7f9fcd20-bf97-4d43-82b7-ca3742205c03,When the environmental adiabatic lapse rate is more than the moist adiabatic lapse rate
+d242da49-cee6-4e62-a593-ff0da1d084b2,rising air initialy cools through the moist adiabatic lapse rate

@@ -1,0 +1,6 @@
+3a42ec22-5411-46a9-9a2b-d1e3ddf3fc6c,Heating at the surface, certain topography, convergence of wind, and existence of fronts that can lead to convection and subsequent t-storms
+26538cf4-23c0-41d1-aa23-9f4a33ebb0b3,warm surface, colder temperature aloft
+bfd55e4d-12f3-4ae8-9b02-2168e07368e1,Over hot surfaces during warm days
+4464db7f-6cf3-4656-b645-ca947f914fd3,Changes in surface pressure
+49154de2-472c-4fa5-bcb3-4abfd2383a36,the surface got warmed up
+14d64587-6d97-4dd2-ac33-dac5cae75fe8,cooling at the surface

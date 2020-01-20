@@ -1,0 +1,56 @@
+97d11de0-192a-4ed5-b1bb-e74d2efec758,When air rises, moist air cools at a lower rate than dry air. That is, for the same upwards vertical movement and starting temperature, a parcel of moist air will be warmer than a parcel of dry air. This is because of the condensation of water vapor in the air parcel due to expansion cooling. As water vapor condenses, latent heat is released into the air parcel. Moist air has more water vapor than dry air, so more latent heat is released into the parcel of moist air as it rises. Dry air does not have as much water vapor, therefore dry air cools at a higher rate with vertical movement than moist air. As a result of the latent heat that is released during water vapor condensation, moist air has a relatively lower adiabatic lapse rate than dry air. This makes moist air generally less stable than dry air (see convective available potential energy). The dry adiabatic lapse rate (for unsaturated air) is 3 °C (5.4 °F) per 1,000 vertical feet (300 m). The moist adiabatic lapse rate varies from 1.1 to 2.8 °C (2.0 to 5.0 °F) per 1,000 vertical feet (300 m).
+b991214c-fedd-47f1-a631-ca7f903b7dd3,It starts with an unstable atmosphere, with warm, moist air below and cool, dry air above. As the air rises, the air from the bottom cools at the moist adiabatic rate and the top of the layer cools at the dry adiabatic rate. This causes the difference to become even steeper in the upper atmosphere and therefore even more unstable.
+ad7abb78-1ca3-486c-b80a-a7a753363750,Warm, moist, nearly saturated air at the surface rises to a higher altitude/lower pressure at the moist adiabatic lapse rate. Cool, dry air above the surface layer of warm, moist air rises at the dry adiabatic lapse rate. This causes a very steep temperature difference at altitude, so a storm will form and grow quickly
+f7faa93d-3725-4554-b94b-ba3623da4c48,the air near surface is warm and moist, the ais above the ground is cold and dry. when moving this layer of air within the same pressure difference, the air at the ground go at moist adiabatic rate, and air at top go at moist adiabatic rate. the air at top also goes more distance. the lapes rate is increased
+cc6d9ca0-e6e1-406d-9d4f-5a00136516f5,There is a layer of unsaturated air at the top of a layer of saturated air, so the air near the bottom is cooling at the moist lapse rate while the air above is cooling at the dry lapse rate. This causes a steeper lapse rate higher in the atmosphere which leads to much less stable air.
+65212b74-a914-4fa7-8a86-d21a3943cebd,Convective instability occurs when there is warm, moist air at the surface and cold, dry air above. When forced to rise, the warm, moist air has a steeper lapse rate, and as the air rises, it becomes even more buoyant and less stable.
+68c45c85-49e2-4a26-b221-a1a962a07e88,A large difference in air temperature within a layer of air. The heated air towards the top of the layer is pushed up faster than the air towards the bottom, making a lot of warm air rush aloft, increasing atmospheric instability
+045b8a36-2477-41a3-8b42-33b55c33eee6,We need very moist, hot air at low altitudes, and cold, dry air at high altitudes. Then the air on the way down will cool at the dry adiabatic lapse rate while the air on the way up will cool at the moist adiabatic lapse rate.
+af139162-6dbf-44dd-b1bd-6a133837a69e,lifting a layer of warm moist air that is at the surface, while there is cool, dry air sitting above that layer. The lapse rates are different and they become steeper, causing the air to become less stable.
+af139162-6dbf-44dd-b1bd-6a133837a69e,lifting a layer of warm moist air that is at the surface, while there is cool, dry air sitting above that layer. The lapse rates are different and they become steeper, causing the air to become less stable.
+54dbbcd0-c35c-4d6d-9758-b355121d4ba3,air at the surface is almost saturated and is warmer than the air above it, it suddenly rises and into a layer of cool air. this makes the atmosphere unstable
+6943c57a-bf5e-4fe2-9416-6800ac28c92e,When the cold dry air and warm moist air meets and show goes through convection the air will rise in a increasingly unstable way. Please explain it again....
+6884f36d-f0fd-473a-b277-9e5070e808b6,nearly saturated air near the surface often moist warm conditions with a layer of cold dry air above it. As the air rises it actively becomes more unstable.
+addb30c8-34f8-4aa6-bf79-4780d412c6a4,when the surface air is warmer and saturated than the air aloft, which is colder and unsaturated, a rising air parcel has less stability as it rises.
+d30bc9dc-b42d-4e15-9502-7c91b97e52c5,A layer of unsaturated air at the top and saturated near the bottom, an inversion of air traps the air below leading to convective instability
+71d61fa3-dda5-4c64-972c-3ea02084238e,Air aloft is way warmer than air near the ground - the air near the ground ends up being fully saturated, while the air above is not saturated
+4ed5a350-cc82-4ff0-94ae-3bc38c7324a4,Air in the upper atmosphere is significantly colder than air at surface (temperature difference is large enough to cause air to rise upward).
+a24d40ef-8edb-4545-9ab8-45d48b6bf0c5,Having a cell that has hot air rising and bubbling to the top while the cold air is having to sift down below where it should be sitting
+4e14c8a8-c604-422a-8eb4-ed47c58711a0,Convective instability is when the vertical movement of a parcel of air is relatively easy. The air moves up, rising air forms clouds.
+c09ab60a-5047-4475-b68a-4652552b1ac3,cold air sinking, hot air rising, spinning air creates upward drafts, divergence in the upper atmosphere mixes winds... boom
+3e4ccd2b-adff-445f-acb7-d69059058f48,Convective instability occurs when dry mid-level air advects over very warm and moist air in the lower troposphere
+3828d2b6-9545-4b29-aaae-1152f166ee2e,convective instability relates to an unstable atmosphere so warm moist air at the surface and dry cool air aloft
+9dbcfc03-2bd7-4af9-831c-fed70bfdc75a,When the air towards the ground is warmer and the air in the sky is cold. This imbalance fuels extreme weather.
+4ca2e9f5-0f52-46fe-9cdd-bf11c7c66c72,This happens when dry middle level air advects over warmer moist lower air in the troposphere.
+8927c162-ce76-4059-82b6-4c1b9dbbb7ca,Occurs when dry mid-level air advects over very warm and moist air in the lower troposphere.
+46c382d9-986d-49e5-a435-653f22421f42,occurs when dry mid-level air advects over very warm and moist air in the lower troposphere
+314be834-3696-420e-87aa-bba6f0f372ad,1 warm moist air near the ground and dry cold air above the ground 2 lift up the layer
+c66c8e56-b05c-43cd-8d66-83b2ad29825f,when dry mid-level air advects over very warm and moist air in the lower troposphere.
+7ff07e77-0498-4c21-af76-9280d138428d,Dry air advects over very warm and moist air and this leads to convective instability.
+4d5afd19-0b70-4b3c-9f1c-0727d6d1703e,when dry mid-level air advects over very warm and moist air in the lower troposphere
+46e3af0b-648b-45d0-9541-cbb1b748d636,dry mid-level air advects over very warm and moist air in the lower troposphere
+3833f0c5-ceab-4b8c-9f34-5e243a518224,Dry mid-level air advects over very warm and moist air in the lower troposphere
+eab1aaf6-5f4f-4876-9056-8fb96d7fff64,when the surface air is warm and moist and the air aloft is cold and dry
+43582284-a12a-4ba8-9884-cadeb11a3cf1,Dry air advecting over warm, moist air leads to convective instability
+a41a3cbc-f935-485a-8253-144d63f4e930,lifted layers? when the surface air is much warmer than the air aloft
+85a62653-62df-49b8-8452-1c1f29b4f3a0,Dry mid-level air mixes with warm moist air in the lower troposphere.
+6c60bf43-7bf7-41c6-aee8-fca6594f52d7,Saturated air near the surface and drier air right above it
+03068789-46b9-4b81-9ef2-3ae168bdfb55,Dry air cools more quickly than the moist (saturated) air.
+6b012fd2-e8ae-4174-bf4f-c379b28d26be,When dry mid-level air advects over warmer moist air below.
+95e7dff5-711d-4123-818c-8ff50b321b0c,When the air near surface is warmer than the air in aloft.
+6deabb4c-3838-4fe2-a2bd-3a503fda9902,when the air near the surface is warmer than the air aloft
+3229d156-f33b-4b3f-9976-ecfb39075f72,When the air below is much warmer than the air aloft.
+b783592e-3337-4dca-9b5e-b1c16eaf66f6,when dry mid-level air goes over warm and moist air
+b6642e96-a679-4620-aede-1f9b15e9dd8a,when dry midlevel air advects over warm moist air
+f3e8e77c-97b7-4e84-93d1-d45b14d0cc02,got air that rises is beneath cold air that sinks
+95c9a2f7-d7e9-4702-9799-74f7cc76d4d0,Cold air aloft and warm moist air at the surface
+a2ae6560-b1b0-4c8e-8e22-9032a01cd2ce,Moist and hot air rising quickly.
+28f6a2cc-e31b-4c71-9c02-71fecbdcfbb8,ground heated more or air colder
+881aefeb-0be2-4f83-a1ec-1e48b208007c,Dry air above warm moist air
+52ef1b59-1684-442c-8f65-a2b327269737,rising air becomes unstable
+32f4a70b-d507-4078-9dc1-36b77a35a68f,cooler and more moist air
+0e808942-84ed-4be0-86f8-4e8b054c5b70,when the air is unstable
+132cc849-ebd7-40b0-a24f-de66b5c2a512,humid, saturated air
+680e94c3-6f59-45e8-931c-28abe4ad15f0,cooling air rising?
+00d0c206-b7c4-4609-917b-7bee66de42eb,unstable air
+5d8ba7fa-14f9-4d26-aafb-ec8663e04816,unstable air

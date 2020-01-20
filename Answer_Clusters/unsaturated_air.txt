@@ -1,0 +1,16 @@
+b8fafa12-0a29-440d-abbf-41502ba60983,Convective instability is caused when the upper layer of air is unsaturated and the lower layer of air is unsaturated. Air becomes less stable as it rises, so as convection occurs, the air becomes less and less stable.
+7dfe3609-4994-4de1-b93b-60b8a604df76,When an air parcel has the conditions so that when lifted, it becomes more unstable. It can be saturated at the bottom and unsaturated at the top, causing it to be unstable when lifted.
+98916953-ae39-435e-a234-4fedb1365fd7,near the surface, air is saturated. As it rises it becomes unsaturated and then continues to rise leading to instability
+c41efc31-78db-4099-8866-e1882e75441a,Unsaturated near the top and saturated at the bottom, meaning there is also a temperature difference between the two.
+07f0a4a0-5e45-499d-9753-6f7440614bdc,convective instablility is caused by an unsaturated at the ground but saturated up higher in the atmosphere.
+eb4d4d94-ad9b-4ab4-9893-4463e8fdca36,When the layer of unsaturated air at the top and saturated air at the bottom meet due to the adiabatic rate
+81eb1fe3-00da-49ae-87b4-a63ea7d1f621,When you get saturated air at the top, and unsaturated air on the bottom.
+1d0578d3-78b4-493d-82c3-632ca970622b,The top of the air parcel is unsaturated while the bottom is saturated
+6a2d4eb4-8e39-4da9-80a7-e23fef747376,When the air is unsaturated at the bottom and saturated at its top
+0d0404cb-8040-48ce-9afd-aa3ec234e523,The air at the top is unsaturated and the air below saturated.
+ef71e2e5-ff82-4e34-b283-c2fb2b22aa75,Unsaturated air at the top and saturated air at the bottom
+df6ed85c-7f42-423c-a962-7f85aacbddfc,When the top is saturated and the bottom is unsaturated
+dff0ef0c-83b9-48a4-a864-0c9dde072385,Unsaturation at top and saturation at bottom.
+a0e92516-9d0e-4383-b1d4-c3dc8fcb0086,unsaturated air above and saturated air below
+37319bc4-f91d-4e35-bf9a-7b4ea0d126b8,unsaturated at top saturated an bottom
+22598e22-7789-49ba-8c4f-c3663995ef14,bottom is unsaturated

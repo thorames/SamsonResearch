@@ -1,0 +1,11 @@
+13d563af-09d8-4aec-9dbf-d7cb3294cf39,As the temperature decreases, the pressure increases, but near the surface the pressure and temperature reaction is inverted, creating a difference between dry and moist rates
+3a067bf3-e35b-4a06-a868-c264ad0211f6,when a low and a high pressure system mix together and form a pressure system that is unstable. Heat rises from the ground and flows toward the low pressure system?
+933a885e-38ee-43a1-b55a-e2431d505c7f,It means that the atmosphere is convectively unstable because of the high to low pressure gradient\n
+a32b4289-3fe3-4df9-a55c-72ec6c0e71bc,high pressure and low pressure systems coming together and pushing against one another\n
+c291ac5c-f46f-4bb6-aa4d-5a776670b898,two different pressures, opposite wind directions, temperature differences
+bb1a2a19-fc1d-40e9-8b35-8460199122fa,very moist air and a mix of high and low temperatures\n
+c138a7c5-917f-4644-a27c-ffeb906b150f,vertical regions of low pressure systems
+6eaca3b3-e58f-4577-ad6b-71365e9ff0e6,swift changes in air pressure
+399b07bb-e1a5-41d1-9ff8-b39e4efcb3a2,high and low pressure
+de5f8f2a-858a-436a-bc41-769c444d3b87,pressure gradient
+1aa93131-106a-4845-87d2-645e089ac8ac,Low pressure

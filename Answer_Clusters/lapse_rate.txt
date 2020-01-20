@@ -1,0 +1,17 @@
+b4e8ab16-3377-4e24-a8e1-71c5b9a050da,The layer of atmosphere at the ground is nearly saturated, meaning that it will rise and cool at the moist lapse rate. The air directly above it is dry, and will rise and cool at the dry lapse rate. Since the dry rate is greater than the moist rate, the rate of change after that layer of air has risen will be very steep, creating a very unstable, or convective unstable, parcel of air.
+d47bf59b-2a81-4717-891e-e38f7d3c9563,a layer of warm air that is nearly saturated or saturated under a layer of dry and cold air rises, the lapse rate changes greatly becomes of the differences is the pressure, temperature, and distance it travels. the increase in lapse rate makes the atmosphere unstable
+a38d7522-3611-49ff-92c0-8c673cb53398,The layer at the top will be unsaturated and the layer at the bottom of the cloud will be saturated leading to a steep lapse rate as the cloud rises throughout the atmosphere. This large lapse rate is very unstable and leads to supercell storms.
+fa92f84b-4c4e-4782-bfe0-3410679a31c4,The bottom portion of the layer is nearly saturated, the top is dry, so they cool at different rates as they rise. This creates a steeper lapse rate as it rises and causes convective instability.
+a7f32386-0d92-4435-a4fe-0ea4206eea8c,convective instability is caused by there being a high environmental lapse rate, resulting in air cooling at a very fast rate when it rises and leading to storms
+ff60885f-5dc6-413d-b348-30d6e897d9d6,When a layer is unsaturated at its tops and cools at the dry adiabetic lapse rate and saturated at the bottom and cools at the moist adiabetic lapse rate.
+bcd805a4-f3e1-4f3f-9749-2680af1e2716,top lifted but cooled at dry adiabatic lapse rate. lapse rate becomes much steeper. air rising becomes less stable. formation of supercell thunderstorms
+25f29592-37f9-41c5-99c9-e17db524e543,when the surface air is much warmer than the air above it, the enviromental lapse rate is much greater than the dry abiatic rate
+0e06a50c-59ce-4ffd-af00-de4650b1a0c7,When the lapse rate becomes very steep it will become unstable. Also when the temps get colder that affects it too.
+23c76d1f-e1a1-4f6d-b55c-99fa18e37274,The adiabatic lapse rate is lower than the ambient lapse rate, meaning the air cools faster and will rise less
+90c07228-5953-4233-941f-51aaf6a48b75,unsaturated ay the top but saturated at the bottom causes temperature to change at different lapse rate
+acf766f3-6d41-4779-843c-248ae05b84d1,layer of unsaturated air when its lapse rate of temperature is less than the dry-adiabatic lapse
+98dd8bc6-5c33-4cd7-902d-85e8bd8e823b,wet adiabatic lapse rate < Environmental lapse rate < dry adiabatic lapse rate
+aee562d2-45ce-4731-b16e-cc3d415f7e93,when air is lifted it becomes less stable because the lapse rate gets steeper
+c1e80a83-20b3-47d8-962c-50aa4b3d25fb,environmental lapse rate greater than dry adiabatic rate
+4f1f07f6-ba28-4a67-88db-7ac03be4e9f8,a small lapse rate lower than environmental rate
+a2bfa3ab-7bb0-4a91-b5d3-7b25cba6aef1,Heating at different rates

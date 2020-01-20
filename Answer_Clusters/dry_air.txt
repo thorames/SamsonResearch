@@ -1,0 +1,26 @@
+cdcf11fb-326f-4003-8ddb-b5c9271d5dc3,When the air near the ground is warm and wet, but the air a bit above is cool and dry, and convection occurs, the lower and upper air will cool at different lapse rates. Wet air at the moist adiabatic lapse rate, and dry air at the dry adiabatic lapse rate. This will lead to the lower air cooling slower than the upper air, creating stronger instability, as the temperatures aren't moving together.
+3f352803-6983-445d-85c6-cbe1c6abc54a,Warm, moist air at the surface meets cold, dry air above. The warm, most air will drop in temperature at the saturated lapse rate (6 C per k) and the cold, dry air will drop in temperature at the dry lapse rate (10 C per k). This leads to a much steeper slope of temp change or lapse rate in the upper atmosphere which makes the air much less stable.
+64eb4976-2a40-4f75-9f89-2808b159e4f5,A layer of nearly saturated air trapped below a layer of dry air. If convection is induced, the both layers of air rise. The nearly saturated air becomes saturated quickly and its temp falls at the MALR and the dry air falls at the DALR. When they reach a certain altitude, the lapse rate is much steeper at that point so the air is unstable.
+f998a075-96a6-4610-a2c3-d7c94ec36c4d,When you have warm humid air near the ground that rises at the moist adiabatic lapse rate and dry cold air at the top of the parcel of air that rises at the dry adiabatic lapse rate. As the parcel of air is lifted up in the air it will become less and less stable explosively.
+acffa761-e483-41f9-a71f-1a32012c1987,The conditions that lead to convective instability include a layer of warm moist air near the ground, and cool dry air above it. As the air is lifted the dry air cools at the dry adiabatic lapse rate and the moist air cools at the moist adiabatic lapse rate.
+cf4fe21e-0179-4082-a0d8-0c2df3a3c2f3,Warm muggy air near the surface and cool dry air above. The warm air cools at the moist adiabatic lapse rate and cool dry air cools at the dry adiabatic lapse rate leading to an even more unstable atmosphere up top with a steeper slope.
+1346a9da-db19-4e1c-ac19-bf8ac42f8c63,the surface air is saturated has a lot of humidity while the air above has cold dry air. if the air at the surface wants to move up vertically, it warms at the moist adiabatic rate and air aloft at the dry adiabatic rate
+cf3e60c6-0533-4d7b-b65e-90fbe8e2d607,nearly saturate air near the surface is covered by dryer air. If this is lifted than the nearly saturated air changes at the moist and the dry changes at the dry creating a steep change in temp in the upper atmosphere
+4e4e6b0e-c543-4677-b8e2-03027ff63deb,The moist warm air from the ground with high humidity and their is cold dry air above, this leads to convection because when the air dries it becomes less stable creating convective instability
+1199fb08-c60d-486f-bf53-b95ab7f52e19,The air near the ground is warm and muggy; the air at the top is dry and cold. Those two parcels of air meet and lift up, causing the atmosphere above extremely unstable.
+023dedc9-4670-41a9-b514-d3f58d9571ec,There must be warm, muggy air on the ground and cold, dry air higher. This leads to an inversion as a layer of air rises. After this point, the air becomes unstable
+20f81c27-0141-4113-aaff-9a0251bb27c7,warm, muggy air at the ground with cool, dry air above it. when that warm air rises, it saturates the dry air above which allows for the formation of clouds.
+9f3ff085-4fd2-4197-a6fa-2ca789e71b2e,An unstable atmosphere in which the air near the surface is warm and dry while the air above is cold and wet.
+481e8569-546a-4ae8-ac62-9ca045108ef8,warm muggy air (saturated) closer to ground, dry cool air (unsaturated) above it = different lapse rate
+3a3a0b73-121c-4873-9a78-2189892782c2,when there is warm and muggy air below and dry and cold air above and then this air is lifted
+de32cea5-1d25-441c-a28b-62374ddc7dd2,Nearly saturated air at the surface, and dry cool air in the atmosphere
+fe2f3802-6249-487a-8e26-776bcbdaa713,air saturated on the ground rises into air above thats colder and dry
+daa7ca35-5d7d-4af8-baa4-1ff4f0bd1873,warm/hot air mixing with cool/dry air in the upper atmosphere
+43b3f01e-89a8-46a0-9cf9-97137d75052c,Warm, muggy air near the ground, and cold dry air above it.
+5f99fc1c-76b0-4aa5-a4e5-e2d06008e797,air near ground is saturated while air above it is dry
+fd6d4bfb-7c2d-464d-8021-ae25e2134027,saturated air at the bottom and cold dry air aloft
+94707a24-a963-43ad-ae13-62e37603890f,meeting of hot, humid air and cold, dry air.
+f10f2909-a5f5-4ce8-a9f5-100190a01229,When dry air cools more quickly when lifted
+8e5a76a8-0ab1-45dd-a63a-c1ee30c81465,dry and unstable air with positive buoyancy
+4d12bc9e-e5a1-4e2b-aaea-30a60f30ff80,The cold and dry air overlying humid air.
+246ccc51-32ec-48f1-acf7-bb1de2ae12fd,dry mid-level air advects
