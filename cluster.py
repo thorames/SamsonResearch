@@ -259,7 +259,7 @@ def split_phrases(questions, contractions, good_POS, bad_filler, number_words, w
 
         question_tokens = temp_tokens
 
-    return question_phrases, question_tokens, tokens
+    return question_phrases, tokens
 
 def new_node(inlink_map, outlink_counts, node):
     if node not in inlink_map:
@@ -524,7 +524,7 @@ def main():
     inverted_index = {}
 
     questions, answers = read_backchannel_questions(backchannel_file)
-    question_phrases, question_tokens, tokens = split_phrases(questions, contractions, good_POS, filler_words, number_words, word_ranks)
+    question_phrases, tokens = split_phrases(questions, contractions, good_POS, filler_words, number_words, word_ranks)
     inlink_map, outlink_counts, all_nodes = build_graph(tokens)
 
     ranks = text_rank(inlink_map, outlink_counts, all_nodes)
