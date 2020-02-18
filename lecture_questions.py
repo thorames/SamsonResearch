@@ -9,7 +9,6 @@ import math
 import tqdm
 import random
 import operator
-from nltk import pos_tag
 from datetime import datetime
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
@@ -101,6 +100,8 @@ def condense_transcripts(transcripts):
         for token in tokens:
             if token != "NONE":
                 ngram.append(token)
+                if len(ngram) > 1:
+                    ngrams.append("_".join(ngram))
             else:
                 if len(ngram) > 1:
                     ngrams.append("_".join(ngram))
@@ -348,10 +349,10 @@ def retrieve_questions(transcripts, class_name, inverted_index, num_questions, q
 
         counts_file.close()
 
-        new_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers)
-        #old_output_questions(key, sorted_cosine_similarity, questions, choices, answers)
+        Alexa_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers)
+        #Yash_output_questions(key, sorted_cosine_similarity, questions, choices, answers)
 
-def new_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers):
+def Alexa_output_questions(class_name, key, sorted_cosine_similarity, questions, choices, answers):
     json_output = {}
 
     json_output["TableName"] = "VirtualGSI_QA"
@@ -396,7 +397,7 @@ def new_output_questions(class_name, key, sorted_cosine_similarity, questions, c
     with open("Lecture_Questions/" + str(key) + "_questions.json", 'w') as outfile:
         json.dump(json_output, outfile)
 
-def old_output_questions(key, sorted_cosine_similarity, questions, choices, answers):
+def Yash_output_questions(key, sorted_cosine_similarity, questions, choices, answers):
     json_output = {}
     json_output["assignmentTitle"] = key
 
